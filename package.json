@@ -1,0 +1,47 @@
+{
+  "name": "blockticity-l1-minting",
+  "version": "2.0.0",
+  "description": "Blockticity LayerZero NFT minting for COAs - Trustless Trade at Scale - Production Ready",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network blockticityTestnet",
+    "deploy:mainnet": "hardhat run scripts/deploy-mainnet.js --network blockticityMainnet",
+    "verify:deployment": "hardhat run scripts/verify-deployment.js --network blockticityMainnet",
+    "verify:production": "node scripts/verify-production-integration.js",
+    "mint:genesis": "node scripts/mint-genesis-direct.js",
+    "mint:single": "hardhat run scripts/mintURI.js --network blockticityMainnet",
+    "mint:batch": "node scripts/batch-mint-production.js",
+    "mint:acs-production": "node scripts/acs-production-minter.js",
+    "monitor": "node scripts/monitor-contract.js",
+    "test": "hardhat test",
+    "production:setup": "cp .env.production .env && npm run verify:production",
+    "production:mint": "npm run production:setup && npm run mint:acs-production"
+  },
+  "keywords": [
+    "blockticity",
+    "coa",
+    "nft",
+    "blockchain",
+    "layerzero",
+    "avalanche",
+    "production",
+    "acs-lab",
+    "astm-d8558"
+  ],
+  "author": "Blockticity",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "aws-sdk": "^2.1500.0",
+    "axios": "^1.6.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.10.0",
+    "form-data": "^4.0.0",
+    "p-limit": "^3.1.0"
+  }
+}

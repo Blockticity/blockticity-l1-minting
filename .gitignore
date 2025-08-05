@@ -80,3 +80,15 @@ ipfs/
 output/
 uploads/
 temp/
+
+# Solidity / Hardhat / Foundry / Truffle
+typechain/
+typechain-types/
+*.tsbuildinfo
+
+# Project-specific minting artifacts and sensitive files
+*.zip
+*.csv
+*.png
+*.svg
+verification_upload/

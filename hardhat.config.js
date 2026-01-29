@@ -12,11 +12,20 @@ module.exports = {
     },
   },
   networks: {
-    // Testnet configuration
+    // Testnet configuration (BTEST - Original)
     blockticityTestnet: {
       url: process.env.TESTNET_RPC_URL || process.env.RPC_URL || "https://subnets.avax.network/btest/testnet/rpc",
       chainId: 75234,
       accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [],
+    },
+    // BTEST2 - Sovereign L1 Testnet (Full Control)
+    btest2: {
+      url: process.env.BTEST2_RPC_URL || "http://127.0.0.1:9650/ext/bc/2GQaNqXA9RtrUgt5PT6Fo8QKFdoyQwLTA33L3zaz2Noa13Qwbc/rpc",
+      chainId: 54928,
+      accounts: process.env.BTEST2_PRIVATE_KEY ? [process.env.BTEST2_PRIVATE_KEY] : (process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []),
+      gasPrice: "auto",
+      gas: "auto",
+      timeout: 120000,
     },
     // Blockticity L1 Mainnet configuration
     blockticityMainnet: {

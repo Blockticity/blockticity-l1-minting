@@ -1,0 +1,3507 @@
+{
+  "project": "NUCAFE Phase 2 — 350 Bag COAs",
+  "completedAt": "2026-02-11T05:03:21.952Z",
+  "totalMinted": 350,
+  "bags": [
+    {
+      "identifier": "BAG-001",
+      "serial": 1,
+      "lotNumber": "489",
+      "contentHash": "0x02646c96d9ff636c33b1ef8e3e80dd7984aff792d3d0f8a5544f2796b5f017f5",
+      "gveCode": "GVE-02646c96",
+      "tokenId": "762171",
+      "txHash": "0x9f3bf61f46a1b8a2efcdcc8d587b513224664d880bf3c2b35ebc9b94ce08daa6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-02646c96/coa-02646c96d9ff636c.svg"
+    },
+    {
+      "identifier": "BAG-002",
+      "serial": 2,
+      "lotNumber": "489",
+      "contentHash": "0xe9edda1463b31ecec1e16289d7dddda61616500f7b964527ac5a86fbb3735719",
+      "gveCode": "GVE-e9edda14",
+      "tokenId": "762172",
+      "txHash": "0xa994c054976365ad340df4861e2f337359fc56f541b8ed8eea077a1b325f73c7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e9edda14/coa-e9edda1463b31ece.svg"
+    },
+    {
+      "identifier": "BAG-003",
+      "serial": 3,
+      "lotNumber": "489",
+      "contentHash": "0xa249926530f7d4dff6c4b4caabd54881e1a591e261b1fbbf429f22de856572a4",
+      "gveCode": "GVE-a2499265",
+      "tokenId": "762173",
+      "txHash": "0xf2fbb6b22bc2fa05cf9fb275d4752665eb054067352e6793083a6a2d02cb9be8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a2499265/coa-a249926530f7d4df.svg"
+    },
+    {
+      "identifier": "BAG-004",
+      "serial": 4,
+      "lotNumber": "489",
+      "contentHash": "0x8dd44c96745cd152f37c240ee3c6a31f9e6c1cb440a6c838158364c73daf334d",
+      "gveCode": "GVE-8dd44c96",
+      "tokenId": "762174",
+      "txHash": "0xf39ada5c68fccdf94ddb110fd5f8014c680b19f13ff050998dbaf5b2d01c4945",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8dd44c96/coa-8dd44c96745cd152.svg"
+    },
+    {
+      "identifier": "BAG-005",
+      "serial": 5,
+      "lotNumber": "489",
+      "contentHash": "0x2cac1380fd39574d11824f6b2e06b746d29d02b6455da6ace37c8248fc2951fb",
+      "gveCode": "GVE-2cac1380",
+      "tokenId": "762175",
+      "txHash": "0x580ad8b640fea5f68e7c718b83a1119b2f366ed0cf58cd71e386c4149a94422b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2cac1380/coa-2cac1380fd39574d.svg"
+    },
+    {
+      "identifier": "BAG-006",
+      "serial": 6,
+      "lotNumber": "489",
+      "contentHash": "0xf09acafe6dbadfa96195c6197b838de29ad113c5169890b65b7d04166e743360",
+      "gveCode": "GVE-f09acafe",
+      "tokenId": "762176",
+      "txHash": "0x9b772e4b8e338a10a520ec646467daa180fc3e5e9c81c6e974844cf63b2d1dc7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f09acafe/coa-f09acafe6dbadfa9.svg"
+    },
+    {
+      "identifier": "BAG-007",
+      "serial": 7,
+      "lotNumber": "489",
+      "contentHash": "0x4e88253d8c4173ea1bcbe4342deb95c9b608e2ee32079a88e436e74dc283f7f0",
+      "gveCode": "GVE-4e88253d",
+      "tokenId": "762177",
+      "txHash": "0x4ce2c9e2427dd06fad5cfecbf74b371c22cec5c4357259f42b7a314c65a89883",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e88253d/coa-4e88253d8c4173ea.svg"
+    },
+    {
+      "identifier": "BAG-008",
+      "serial": 8,
+      "lotNumber": "489",
+      "contentHash": "0xe5f371c5d6e08d379a56a3e3aa222c92cd0ad37e246eafe6e6344a1833d88966",
+      "gveCode": "GVE-e5f371c5",
+      "tokenId": "762178",
+      "txHash": "0x11bce62dec0b8b129b2d89c3d5a1f4e9324622dd68fb9a51a6a47d578c325823",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e5f371c5/coa-e5f371c5d6e08d37.svg"
+    },
+    {
+      "identifier": "BAG-009",
+      "serial": 9,
+      "lotNumber": "489",
+      "contentHash": "0x36e52dca153cd68d703ae045d8377996accead1b6be17f217fd16abea753c49a",
+      "gveCode": "GVE-36e52dca",
+      "tokenId": "762179",
+      "txHash": "0x673588f2ece41ccdd338e0bb21d618018a34947f68b7b25120e5e324c4e93276",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-36e52dca/coa-36e52dca153cd68d.svg"
+    },
+    {
+      "identifier": "BAG-010",
+      "serial": 10,
+      "lotNumber": "489",
+      "contentHash": "0x14cb6a7226e54810575ab467be0cbfda98f1b323361c1e93b7ac092d2e2ad66b",
+      "gveCode": "GVE-14cb6a72",
+      "tokenId": "762180",
+      "txHash": "0xdaf13f4a760fa75df71d5787e2b55c92baf7ecf142ced54c9e0fd52a8762538d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-14cb6a72/coa-14cb6a7226e54810.svg"
+    },
+    {
+      "identifier": "BAG-011",
+      "serial": 11,
+      "lotNumber": "489",
+      "contentHash": "0x2a2d449c454c5b234f528393aef9f3e3dc6811fa196948989f710cef75769e81",
+      "gveCode": "GVE-2a2d449c",
+      "tokenId": "762181",
+      "txHash": "0x9e60f0ce3a4fe7cdc60bf132f46bf609e683d12e7e4a018d826c8948cc7e4782",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2a2d449c/coa-2a2d449c454c5b23.svg"
+    },
+    {
+      "identifier": "BAG-012",
+      "serial": 12,
+      "lotNumber": "489",
+      "contentHash": "0x32584eb1645380c65ca389198b768cd12e236832d79b55cfe34608f961f1bace",
+      "gveCode": "GVE-32584eb1",
+      "tokenId": "762182",
+      "txHash": "0xabaec4c0b39ca38575e4ac3a3a13491bfb610683123c07dd0d668526531f1f11",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-32584eb1/coa-32584eb1645380c6.svg"
+    },
+    {
+      "identifier": "BAG-013",
+      "serial": 13,
+      "lotNumber": "489",
+      "contentHash": "0x52bdb8f15be579477b6cdf7405b8d2253cc017e89e5333dfd5b19abf6e2fc3f4",
+      "gveCode": "GVE-52bdb8f1",
+      "tokenId": "762183",
+      "txHash": "0x9ca01bdf53b044a9d2a0395fc0775ee0e3455244b65a9695eeaf425ebc04e309",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-52bdb8f1/coa-52bdb8f15be57947.svg"
+    },
+    {
+      "identifier": "BAG-014",
+      "serial": 14,
+      "lotNumber": "489",
+      "contentHash": "0xf35918d095ab2a76b7e6c0791ffbd2196475c4ae28f6e2f44e86aa301fdefa4e",
+      "gveCode": "GVE-f35918d0",
+      "tokenId": "762184",
+      "txHash": "0x6e4893bee3d75da33de3822b1e07278a219c3821f7820b2d9afbbcbe2a349ea0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f35918d0/coa-f35918d095ab2a76.svg"
+    },
+    {
+      "identifier": "BAG-015",
+      "serial": 15,
+      "lotNumber": "489",
+      "contentHash": "0x0b1386d340f285b4cb0826cbacc785bd994d7a24934770c62f99cb85503578b8",
+      "gveCode": "GVE-0b1386d3",
+      "tokenId": "762185",
+      "txHash": "0x9263668b8531927a7bc4d4a6c9a8e80ccbf1600202e46387d7269eead49ae75f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0b1386d3/coa-0b1386d340f285b4.svg"
+    },
+    {
+      "identifier": "BAG-016",
+      "serial": 16,
+      "lotNumber": "489",
+      "contentHash": "0x56cba38dee77e8d46ecb3a4408ed8a21e92c2ea678f7929d7d13953d7360abe1",
+      "gveCode": "GVE-56cba38d",
+      "tokenId": "762186",
+      "txHash": "0x9c1f8404b263670c559f731853ce0355dcd967f2eec8a3cc12c8232a301c3f3b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-56cba38d/coa-56cba38dee77e8d4.svg"
+    },
+    {
+      "identifier": "BAG-017",
+      "serial": 17,
+      "lotNumber": "489",
+      "contentHash": "0x488abf887fdac9ad49cdd574d490812c93be4b7db4dda903f68c22db5b60bd77",
+      "gveCode": "GVE-488abf88",
+      "tokenId": "762187",
+      "txHash": "0x868cabc7f7c6c2d1a529f4e980144fd3dd50945058320fce5ae13955d6e0bb62",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-488abf88/coa-488abf887fdac9ad.svg"
+    },
+    {
+      "identifier": "BAG-018",
+      "serial": 18,
+      "lotNumber": "489",
+      "contentHash": "0x1d25e7f4565799611e272c79ea3dbdbd5ec60d582791b1f932782907235c1cfc",
+      "gveCode": "GVE-1d25e7f4",
+      "tokenId": "762188",
+      "txHash": "0x5f4551addb37af09984658e9e8f9615f3ab281eb2d89770e643f3452cba0a249",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1d25e7f4/coa-1d25e7f456579961.svg"
+    },
+    {
+      "identifier": "BAG-019",
+      "serial": 19,
+      "lotNumber": "489",
+      "contentHash": "0xdfe364efac61e64fbfa3dfa33ee5ae6cc1edf8f62cfa15d09ef8250a8d1d5338",
+      "gveCode": "GVE-dfe364ef",
+      "tokenId": "762189",
+      "txHash": "0x34cd28a6790a8670210c1c2d0264bd3cdb87e553ee43956d7786d453447af239",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dfe364ef/coa-dfe364efac61e64f.svg"
+    },
+    {
+      "identifier": "BAG-020",
+      "serial": 20,
+      "lotNumber": "489",
+      "contentHash": "0xdc9a501d54c7db44ade279bd557f3d5aa9c2141ce1a5b815efd64e0b57fb2a8b",
+      "gveCode": "GVE-dc9a501d",
+      "tokenId": "762190",
+      "txHash": "0x6a2423c9808827366655daafddae8374931f17d20f9686b318c20f70a5551e21",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dc9a501d/coa-dc9a501d54c7db44.svg"
+    },
+    {
+      "identifier": "BAG-021",
+      "serial": 21,
+      "lotNumber": "489",
+      "contentHash": "0x58d275c43045b0dbd79fc077efbb216e40a49b5f4c7fdb0604374cca45812463",
+      "gveCode": "GVE-58d275c4",
+      "tokenId": "762191",
+      "txHash": "0x2cc44effb8d9f85590b61b79ec36b59f8d2bbe1f2313ae6f4a7e395a98b3bacc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-58d275c4/coa-58d275c43045b0db.svg"
+    },
+    {
+      "identifier": "BAG-022",
+      "serial": 22,
+      "lotNumber": "489",
+      "contentHash": "0xa4160848f6551b5eed7522068f749002e01e01fd29a0a766a3127b9519722948",
+      "gveCode": "GVE-a4160848",
+      "tokenId": "762192",
+      "txHash": "0x6a9c7ef313e065a5d8cb78324522a94acfed157883d82e2298b494c087577bd7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a4160848/coa-a4160848f6551b5e.svg"
+    },
+    {
+      "identifier": "BAG-023",
+      "serial": 23,
+      "lotNumber": "489",
+      "contentHash": "0xd888db6ca9b035ac25bc0af228a36d0fa54b2269fe07edcfd41413ede1e8c843",
+      "gveCode": "GVE-d888db6c",
+      "tokenId": "762193",
+      "txHash": "0x697cd2d8dc4a2593d2ee2c118cd1ea3c265e3c4661868e6a6d1c3deb01616848",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d888db6c/coa-d888db6ca9b035ac.svg"
+    },
+    {
+      "identifier": "BAG-024",
+      "serial": 24,
+      "lotNumber": "489",
+      "contentHash": "0x4e2adec1648079b9b68a12a1a32beab542c1100826e6bb42cd44e1fe4e440e71",
+      "gveCode": "GVE-4e2adec1",
+      "tokenId": "762194",
+      "txHash": "0xc9725026b929c3c3e18590aa1095dad04be328e3a51bb554821b2092c59c150c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e2adec1/coa-4e2adec1648079b9.svg"
+    },
+    {
+      "identifier": "BAG-025",
+      "serial": 25,
+      "lotNumber": "489",
+      "contentHash": "0x2b16dd6f7b7a09256d004f0c0bbb14160f9346980c43d8e3ffc06edb1dc4fbf8",
+      "gveCode": "GVE-2b16dd6f",
+      "tokenId": "762195",
+      "txHash": "0xe298976ad95e2ee8054892cdf17bbb60e71680baa2239ba709faa2784e6b5a59",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2b16dd6f/coa-2b16dd6f7b7a0925.svg"
+    },
+    {
+      "identifier": "BAG-026",
+      "serial": 26,
+      "lotNumber": "489",
+      "contentHash": "0x4b7ae6c5a746da06b6349b98390425b98f9dedf30a676a0f9907f1105691a5e2",
+      "gveCode": "GVE-4b7ae6c5",
+      "tokenId": "762196",
+      "txHash": "0xe7866633eea25d9b5dff53059e912782e6e866e724f9a6f97a6e621a9cbd49cd",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4b7ae6c5/coa-4b7ae6c5a746da06.svg"
+    },
+    {
+      "identifier": "BAG-027",
+      "serial": 27,
+      "lotNumber": "489",
+      "contentHash": "0xf9d892e3e357f39011cf7c803a0c87bc99c0644f5073fe1e71a05d850d89c74f",
+      "gveCode": "GVE-f9d892e3",
+      "tokenId": "762197",
+      "txHash": "0x9357b5a6cfc41c16a33318f03ab3a7624373d8d7c9bc382c36a08fa26e9cd1b5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f9d892e3/coa-f9d892e3e357f390.svg"
+    },
+    {
+      "identifier": "BAG-028",
+      "serial": 28,
+      "lotNumber": "489",
+      "contentHash": "0x33a97e48e0913ec06a36af4ea9eca396de8a1ea75f108c813fdfe6e802cfc796",
+      "gveCode": "GVE-33a97e48",
+      "tokenId": "762198",
+      "txHash": "0x517879ac511d6389e56f1fc9155dab8f1168e0df6ce42b071fbe3906a563b08f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-33a97e48/coa-33a97e48e0913ec0.svg"
+    },
+    {
+      "identifier": "BAG-029",
+      "serial": 29,
+      "lotNumber": "489",
+      "contentHash": "0x98bdf47303faeea1662f669a99e8bd11209a75322fc76b2ff2cf6962ff123f75",
+      "gveCode": "GVE-98bdf473",
+      "tokenId": "762199",
+      "txHash": "0x76c801ed0e96639e3c862e018e34a13c2c845799756fe35896f7552313b0115e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-98bdf473/coa-98bdf47303faeea1.svg"
+    },
+    {
+      "identifier": "BAG-030",
+      "serial": 30,
+      "lotNumber": "489",
+      "contentHash": "0x94227e45354dfa2d669d13450c3df2b163ad5c1f06fd084ba0f008e1618568a1",
+      "gveCode": "GVE-94227e45",
+      "tokenId": "762200",
+      "txHash": "0x69862ffb4a54ba9d8cc016f608924ce509768947aa12b63e4b3995527f1b3a0b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-94227e45/coa-94227e45354dfa2d.svg"
+    },
+    {
+      "identifier": "BAG-031",
+      "serial": 31,
+      "lotNumber": "489",
+      "contentHash": "0xaeec96600ba6110ab0cac737d58fe1455e4d5fe6e2913caca178ab9715347f2d",
+      "gveCode": "GVE-aeec9660",
+      "tokenId": "762201",
+      "txHash": "0x0be2edc4fc895b3e82d181fad155dd46a15bf836b89557ab9b770931eb9b232d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-aeec9660/coa-aeec96600ba6110a.svg"
+    },
+    {
+      "identifier": "BAG-032",
+      "serial": 32,
+      "lotNumber": "489",
+      "contentHash": "0x4ada6b807f1a5edeab7c09eb5527db7d0c69acc3d2463597b5e56bac522f8529",
+      "gveCode": "GVE-4ada6b80",
+      "tokenId": "762202",
+      "txHash": "0xcd5c34b7c887f78e28493b05f4ca974ac4571059adb0b9f2adac901363ec31bd",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4ada6b80/coa-4ada6b807f1a5ede.svg"
+    },
+    {
+      "identifier": "BAG-033",
+      "serial": 33,
+      "lotNumber": "489",
+      "contentHash": "0x3342272511d40dd3a0917646115bad70d02557db503cea47fd30497219062370",
+      "gveCode": "GVE-33422725",
+      "tokenId": "762203",
+      "txHash": "0xfc9a242f8898719006d66ca0ad4847200f1d029cca15f33992c5c645fe417585",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-33422725/coa-3342272511d40dd3.svg"
+    },
+    {
+      "identifier": "BAG-034",
+      "serial": 34,
+      "lotNumber": "489",
+      "contentHash": "0xd03db24336cf0df19faed6a45727f43ec17739f83f030da084f6abcd312f3474",
+      "gveCode": "GVE-d03db243",
+      "tokenId": "762204",
+      "txHash": "0xa03c17c0d899c1b8689b8121159e4cb2b1650bd10e9b704322892d0937345059",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d03db243/coa-d03db24336cf0df1.svg"
+    },
+    {
+      "identifier": "BAG-035",
+      "serial": 35,
+      "lotNumber": "489",
+      "contentHash": "0xc1e3dcfde85f238ada41cbfc178546e618b0fe766e721ce33c205317e3ae7b9a",
+      "gveCode": "GVE-c1e3dcfd",
+      "tokenId": "762205",
+      "txHash": "0xf2f3c0ace5093a783726fec65293759295311420ecc5fd0bb6bcbeef070ad742",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c1e3dcfd/coa-c1e3dcfde85f238a.svg"
+    },
+    {
+      "identifier": "BAG-036",
+      "serial": 36,
+      "lotNumber": "489",
+      "contentHash": "0x26ac0ddc688710758499532fdebc55aef739062e1c6de966a58573f409a87460",
+      "gveCode": "GVE-26ac0ddc",
+      "tokenId": "762206",
+      "txHash": "0xe4a5ec5b27647fdb3184d7059ed809d067856f5419132d4125224c3f96825315",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-26ac0ddc/coa-26ac0ddc68871075.svg"
+    },
+    {
+      "identifier": "BAG-037",
+      "serial": 37,
+      "lotNumber": "489",
+      "contentHash": "0x2b3cbae9b67897d8b311f9131a3157ec30e43948a3bdaa7cfd67f3904464ae57",
+      "gveCode": "GVE-2b3cbae9",
+      "tokenId": "762207",
+      "txHash": "0x11949a9f90d4ace932b868972be6f15c57a438344f74d8acad4652cbc00d0414",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2b3cbae9/coa-2b3cbae9b67897d8.svg"
+    },
+    {
+      "identifier": "BAG-038",
+      "serial": 38,
+      "lotNumber": "489",
+      "contentHash": "0x14dac5fd3557cb9208fa79e1e4d91b50e9138f9ba0d47042dc74b691b14a6cec",
+      "gveCode": "GVE-14dac5fd",
+      "tokenId": "762208",
+      "txHash": "0x086c32381e5fa852e14bb4351bbcdecd877b0c321b5faa93b9bb6c75883869e0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-14dac5fd/coa-14dac5fd3557cb92.svg"
+    },
+    {
+      "identifier": "BAG-039",
+      "serial": 39,
+      "lotNumber": "489",
+      "contentHash": "0xa949743eebd2a36761061fde7e1c4a6ef12f489d87a7b2c8917d6d0573d5596c",
+      "gveCode": "GVE-a949743e",
+      "tokenId": "762209",
+      "txHash": "0x4f0f675e4d0b7ca7b147b21370f8a98d8ddb1a1ab525133b7e33734fe84fbe97",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a949743e/coa-a949743eebd2a367.svg"
+    },
+    {
+      "identifier": "BAG-040",
+      "serial": 40,
+      "lotNumber": "489",
+      "contentHash": "0x14f63c1ae0487d106a1d572ac55522129a8c18e888c8971d65f4d3e43f84ffa7",
+      "gveCode": "GVE-14f63c1a",
+      "tokenId": "762210",
+      "txHash": "0xa8d30de63a5356927c0dbfb9e37b7daeb5172f60b4d3fcd034985062b9120ff3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-14f63c1a/coa-14f63c1ae0487d10.svg"
+    },
+    {
+      "identifier": "BAG-041",
+      "serial": 41,
+      "lotNumber": "489",
+      "contentHash": "0x277dcfa78fc8da4f11327b13f162d48cf1e566ee2707528d93d558fdc9643db3",
+      "gveCode": "GVE-277dcfa7",
+      "tokenId": "762211",
+      "txHash": "0x8a1dcd749d2583e72293f6ea14dc3b4ee44d97215cb2255e9dabd3abf6af0173",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-277dcfa7/coa-277dcfa78fc8da4f.svg"
+    },
+    {
+      "identifier": "BAG-042",
+      "serial": 42,
+      "lotNumber": "489",
+      "contentHash": "0xfcd1f4d39e5fba45dde89a58b4b0a30a3ba02aa511cad7777a6f081a1b2bb30f",
+      "gveCode": "GVE-fcd1f4d3",
+      "tokenId": "762212",
+      "txHash": "0x99d23ab6ccfd12ba8c97fe146c9aea07584836196a89bbd580a082ac02bed37c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fcd1f4d3/coa-fcd1f4d39e5fba45.svg"
+    },
+    {
+      "identifier": "BAG-043",
+      "serial": 43,
+      "lotNumber": "489",
+      "contentHash": "0x1fc475bc1838831b4fdc62537022205fd254629fef72fa2cde237dd22d3534bb",
+      "gveCode": "GVE-1fc475bc",
+      "tokenId": "762213",
+      "txHash": "0x5f22a6f06bcba3ae69c7920e888c1decf9ad647acb2d9f6fe037d6dab235bdee",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1fc475bc/coa-1fc475bc1838831b.svg"
+    },
+    {
+      "identifier": "BAG-044",
+      "serial": 44,
+      "lotNumber": "489",
+      "contentHash": "0xe1b6518170f9d68ec52b45506b29c357bd74900afb95eba1932c8a6414fafd72",
+      "gveCode": "GVE-e1b65181",
+      "tokenId": "762214",
+      "txHash": "0x0f92b37d042cc03a437ca6d96ce1391d77e84e07a63046e41471243a3c46782b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e1b65181/coa-e1b6518170f9d68e.svg"
+    },
+    {
+      "identifier": "BAG-045",
+      "serial": 45,
+      "lotNumber": "489",
+      "contentHash": "0xb275afd6113290c7728cb8c196fe9f26c71b5a02c4afd27d935ca9d0755f4e2c",
+      "gveCode": "GVE-b275afd6",
+      "tokenId": "762215",
+      "txHash": "0xcd71f93da71d29a9f044fe452aad25bf991a1cf29e52644ccca741f9f9b7a820",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b275afd6/coa-b275afd6113290c7.svg"
+    },
+    {
+      "identifier": "BAG-046",
+      "serial": 46,
+      "lotNumber": "489",
+      "contentHash": "0x912f330b84eb75a7497f46fe4445551b3f0e038d058e4f1297fbbda670f7440f",
+      "gveCode": "GVE-912f330b",
+      "tokenId": 762216,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-912f330b/coa-912f330b84eb75a7.svg"
+    },
+    {
+      "identifier": "BAG-047",
+      "serial": 47,
+      "lotNumber": "489",
+      "contentHash": "0xd3a96d79d1a1cbee0f31a79c83cbe3a9745a33434a879f6845e3f5caab1f7043",
+      "gveCode": "GVE-d3a96d79",
+      "tokenId": 762217,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d3a96d79/coa-d3a96d79d1a1cbee.svg"
+    },
+    {
+      "identifier": "BAG-048",
+      "serial": 48,
+      "lotNumber": "489",
+      "contentHash": "0xd1c1a24bcd19120c0961bd418dd7db3058228345b87b4ed262b015795519ee60",
+      "gveCode": "GVE-d1c1a24b",
+      "tokenId": 762218,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d1c1a24b/coa-d1c1a24bcd19120c.svg"
+    },
+    {
+      "identifier": "BAG-049",
+      "serial": 49,
+      "lotNumber": "489",
+      "contentHash": "0xcc84f6d60353e37bfd07230de67651cde4ad1736bb6261d87a76791031fa6194",
+      "gveCode": "GVE-cc84f6d6",
+      "tokenId": 762219,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cc84f6d6/coa-cc84f6d60353e37b.svg"
+    },
+    {
+      "identifier": "BAG-050",
+      "serial": 50,
+      "lotNumber": "489",
+      "contentHash": "0x6e7f2ebb9653ac726291938826f66252bb628279f6a62adedc46adb1ff90c7ac",
+      "gveCode": "GVE-6e7f2ebb",
+      "tokenId": 762220,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6e7f2ebb/coa-6e7f2ebb9653ac72.svg"
+    },
+    {
+      "identifier": "BAG-051",
+      "serial": 51,
+      "lotNumber": "489",
+      "contentHash": "0xad845912cc2ec238b0e60465516754218fed904f88f805f7d72516f3c87a1972",
+      "gveCode": "GVE-ad845912",
+      "tokenId": 762221,
+      "txHash": "—recovered—",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ad845912/coa-ad845912cc2ec238.svg"
+    },
+    {
+      "identifier": "BAG-052",
+      "serial": 52,
+      "lotNumber": "489",
+      "contentHash": "0xd62defdca3ad574ebaca30e02d6dae360d4c7f86b05be6978be25bc81344a65f",
+      "gveCode": "GVE-d62defdc",
+      "tokenId": "762223",
+      "txHash": "0x87e9e30e99d3ac233c4a9f1a85c1f7cd26f784c4de0019fc8d407979be43ad3b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d62defdc/coa-d62defdca3ad574e.svg"
+    },
+    {
+      "identifier": "BAG-053",
+      "serial": 53,
+      "lotNumber": "489",
+      "contentHash": "0xe535b7627d2af1aee9abcdc6034b85e60c33abb162fec60b0285aceb5a825680",
+      "gveCode": "GVE-e535b762",
+      "tokenId": "762224",
+      "txHash": "0xbf1c445b97633391ef8e1fb07e5b834d317738376b3103c2688b081fe07410ce",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e535b762/coa-e535b7627d2af1ae.svg"
+    },
+    {
+      "identifier": "BAG-054",
+      "serial": 54,
+      "lotNumber": "489",
+      "contentHash": "0x0c6fdff2250dcb964efc5d44443439327d7befc9458385283eb226ea0ab16fbd",
+      "gveCode": "GVE-0c6fdff2",
+      "tokenId": "762225",
+      "txHash": "0x1a70ad42f64c531f818c1ee180a9a2712d98b7007e3442ea92ae97d41639d8c1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0c6fdff2/coa-0c6fdff2250dcb96.svg"
+    },
+    {
+      "identifier": "BAG-055",
+      "serial": 55,
+      "lotNumber": "489",
+      "contentHash": "0x4a5610ffaf3c9f67aecba1f53c4613c1929c525dfd650f9d8bbcf28e334c35c7",
+      "gveCode": "GVE-4a5610ff",
+      "tokenId": "762226",
+      "txHash": "0x49dd5ae9792528b8dd75b51046ae84657add1f1af2ccb15e3e19ea3ee7e0440a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4a5610ff/coa-4a5610ffaf3c9f67.svg"
+    },
+    {
+      "identifier": "BAG-056",
+      "serial": 56,
+      "lotNumber": "489",
+      "contentHash": "0xd3fbb6c7ebc876076ab85014ec059fe76315d177cae8955a6687b32be4d65d95",
+      "gveCode": "GVE-d3fbb6c7",
+      "tokenId": "762227",
+      "txHash": "0x23220b6503d61c062fae121e3c613a88228a94c3559ba955c203ef07ca3fc0c0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d3fbb6c7/coa-d3fbb6c7ebc87607.svg"
+    },
+    {
+      "identifier": "BAG-057",
+      "serial": 57,
+      "lotNumber": "489",
+      "contentHash": "0x507091a4c50dd39d18c440cec2b73fe94b9aef70fc8be006260916d0922d960c",
+      "gveCode": "GVE-507091a4",
+      "tokenId": "762228",
+      "txHash": "0xd67b0228be574ab0be87633595011adcc7f389a98d563fde699b08007410992e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-507091a4/coa-507091a4c50dd39d.svg"
+    },
+    {
+      "identifier": "BAG-058",
+      "serial": 58,
+      "lotNumber": "489",
+      "contentHash": "0xaca07ca9622751e6f0d6605a04177a5d4b4e5d93b7bf459346b2b5b5062b0e6c",
+      "gveCode": "GVE-aca07ca9",
+      "tokenId": "762229",
+      "txHash": "0x65b94b567a3dab2f01edfabffb90c84d93261629bf03e2594a4d144f7805f52f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-aca07ca9/coa-aca07ca9622751e6.svg"
+    },
+    {
+      "identifier": "BAG-059",
+      "serial": 59,
+      "lotNumber": "489",
+      "contentHash": "0x3e7449d899b9057ef304266d9a426870b2239be109dadd34ea70780d4fad25d1",
+      "gveCode": "GVE-3e7449d8",
+      "tokenId": "762230",
+      "txHash": "0x313ac5c485857a00d1c9cd350e754b263b9a8c4d2a9d4d0f36665d7374e069a6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3e7449d8/coa-3e7449d899b9057e.svg"
+    },
+    {
+      "identifier": "BAG-060",
+      "serial": 60,
+      "lotNumber": "489",
+      "contentHash": "0xce16275f48f1d3e92e01708ff9764b9d98ef89288a1934ee4d5420c4d0fbfa5f",
+      "gveCode": "GVE-ce16275f",
+      "tokenId": "762231",
+      "txHash": "0xa61d13903b45c59f0c9e164c564a4f19bded689202fc5c6378749ac6b8b4a2c6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ce16275f/coa-ce16275f48f1d3e9.svg"
+    },
+    {
+      "identifier": "BAG-061",
+      "serial": 61,
+      "lotNumber": "489",
+      "contentHash": "0x83577ffe555ea9c6e25c56b84aac9cd577afad3446d96c09308f70608a62e0c9",
+      "gveCode": "GVE-83577ffe",
+      "tokenId": "762232",
+      "txHash": "0x4179a1c1567ed63922ee5145091d0464af033be74d260fbff84889a93d12b1c7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-83577ffe/coa-83577ffe555ea9c6.svg"
+    },
+    {
+      "identifier": "BAG-062",
+      "serial": 62,
+      "lotNumber": "489",
+      "contentHash": "0x5fb41d712f9fe604e8386b4a9179a75b92d6bb9e9b949fdf1b21dddf0b88d37e",
+      "gveCode": "GVE-5fb41d71",
+      "tokenId": "762233",
+      "txHash": "0xa17d6d222afa7125f15f058efabefdf98db0f3de0a1f383f2c6f7dc577ac505f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5fb41d71/coa-5fb41d712f9fe604.svg"
+    },
+    {
+      "identifier": "BAG-063",
+      "serial": 63,
+      "lotNumber": "489",
+      "contentHash": "0xea5c897630bf0de7762b292b1cb50ea196f68e26223d56b1936f7ea0db473fc0",
+      "gveCode": "GVE-ea5c8976",
+      "tokenId": "762234",
+      "txHash": "0x8e68098af334e12a3f252e9f71f41a5dce80d5108e074c9a72f22017da7bb102",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ea5c8976/coa-ea5c897630bf0de7.svg"
+    },
+    {
+      "identifier": "BAG-064",
+      "serial": 64,
+      "lotNumber": "489",
+      "contentHash": "0x55a0b1e8e8ceb4aafcb4e129ede2c3eb6d6d49aacda68c0f2836f5a975fc27b0",
+      "gveCode": "GVE-55a0b1e8",
+      "tokenId": "762235",
+      "txHash": "0xad6553a498d37c236eb47deccc87d56b66dd39592a2330e1466c4756af0d7f5f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-55a0b1e8/coa-55a0b1e8e8ceb4aa.svg"
+    },
+    {
+      "identifier": "BAG-065",
+      "serial": 65,
+      "lotNumber": "489",
+      "contentHash": "0xaa3aedf7222be3efc21111d17d8490f5384331424c0a216bce0a9a85ef547454",
+      "gveCode": "GVE-aa3aedf7",
+      "tokenId": "762236",
+      "txHash": "0x152e7b6c8f17a25d3667541cae9c2e9661cd1eb87a13f18d7d7659dcf98c5129",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-aa3aedf7/coa-aa3aedf7222be3ef.svg"
+    },
+    {
+      "identifier": "BAG-066",
+      "serial": 66,
+      "lotNumber": "489",
+      "contentHash": "0xc60387eb6f1e178d901bdae50eb2b746a21efa484dbe4e15a6a4bb1a40b75cbf",
+      "gveCode": "GVE-c60387eb",
+      "tokenId": "762237",
+      "txHash": "0x44f6b479e5df5bf74221813c5864f51c9f4cd4ed7bebc0054f7b18d4aa8989be",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c60387eb/coa-c60387eb6f1e178d.svg"
+    },
+    {
+      "identifier": "BAG-067",
+      "serial": 67,
+      "lotNumber": "489",
+      "contentHash": "0x62d8bff0417842ca324277c9f7b5f2193a8704322f9b63e8752f042c7cf70326",
+      "gveCode": "GVE-62d8bff0",
+      "tokenId": "762238",
+      "txHash": "0x5f75054b262c35aa466dc7bd94cc6ac94171c791b2ee9c4a8941ec02fd258e31",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-62d8bff0/coa-62d8bff0417842ca.svg"
+    },
+    {
+      "identifier": "BAG-068",
+      "serial": 68,
+      "lotNumber": "489",
+      "contentHash": "0xdbcb1b4065118969951df10c04ea0f167f186c098f2955c3d2c17b0bcf398542",
+      "gveCode": "GVE-dbcb1b40",
+      "tokenId": "762239",
+      "txHash": "0x0527b834ed52c9bd025f87bbdf08a6869c1ce8e54249a910ac7625ad87138ffa",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dbcb1b40/coa-dbcb1b4065118969.svg"
+    },
+    {
+      "identifier": "BAG-069",
+      "serial": 69,
+      "lotNumber": "489",
+      "contentHash": "0xace3bca21f34870a8b472eb95e96492cf2adddab7ced5b23c0a5c3a309b3ef90",
+      "gveCode": "GVE-ace3bca2",
+      "tokenId": "762240",
+      "txHash": "0xa915a087cb70be0b75727fe954d00fad4a624388b1e794bccbb6e6e0b2dc8370",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ace3bca2/coa-ace3bca21f34870a.svg"
+    },
+    {
+      "identifier": "BAG-070",
+      "serial": 70,
+      "lotNumber": "489",
+      "contentHash": "0xc895dc68d747f1929b6a27446230462e7f54b03a0c45a0cb0bb9b7361327105d",
+      "gveCode": "GVE-c895dc68",
+      "tokenId": "762241",
+      "txHash": "0xce008f4812c48c1e9c6ef2a911c2c5f0255c662b08440d342eee451ecdd557fa",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c895dc68/coa-c895dc68d747f192.svg"
+    },
+    {
+      "identifier": "BAG-071",
+      "serial": 71,
+      "lotNumber": "489",
+      "contentHash": "0xebf9158d0beff6ea6c2aef0534ec1c97f91701c7cf81071731c1a996c8785dcb",
+      "gveCode": "GVE-ebf9158d",
+      "tokenId": "762242",
+      "txHash": "0xe035627f2e6fc540da70a3f70ed21dc32af15692a5e718a64a2a09787b6d091d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ebf9158d/coa-ebf9158d0beff6ea.svg"
+    },
+    {
+      "identifier": "BAG-072",
+      "serial": 72,
+      "lotNumber": "489",
+      "contentHash": "0x5e843e42b59e284f4cb23ea2590a67cf278495d231a13a8ed2c2fd604f4da7ad",
+      "gveCode": "GVE-5e843e42",
+      "tokenId": "762243",
+      "txHash": "0x22e0f777f73cb1104eecef672c632c20587812741974eda8202f71f58ef2c950",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5e843e42/coa-5e843e42b59e284f.svg"
+    },
+    {
+      "identifier": "BAG-073",
+      "serial": 73,
+      "lotNumber": "489",
+      "contentHash": "0x9ec2c3ddf8d0426912b4b2df671c70998957136791007b5fda2ee628e046caf4",
+      "gveCode": "GVE-9ec2c3dd",
+      "tokenId": "762244",
+      "txHash": "0x3ef8c54a14d1df2cefb73739784b1831cfa897e6dcb96a3e7535d2d735bdae44",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9ec2c3dd/coa-9ec2c3ddf8d04269.svg"
+    },
+    {
+      "identifier": "BAG-074",
+      "serial": 74,
+      "lotNumber": "489",
+      "contentHash": "0x39751e08c72cc6545c215ba652fa40e4ce93752198cf4366d93963f1fc41d9e3",
+      "gveCode": "GVE-39751e08",
+      "tokenId": "762245",
+      "txHash": "0x414c1a68b25ff47b5c3ddd4400bd8547b147ab8207883a2e474bc7ecc10e74f8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-39751e08/coa-39751e08c72cc654.svg"
+    },
+    {
+      "identifier": "BAG-075",
+      "serial": 75,
+      "lotNumber": "489",
+      "contentHash": "0xd05c61ba8f2c0641cb5adc1d869a6e707b90840a3596e92fa408ef6d37c256ad",
+      "gveCode": "GVE-d05c61ba",
+      "tokenId": "762246",
+      "txHash": "0xa2b2ba72e82453dac8d11bb611ba1842be867751f6dd0742f7d1ded57229dee5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d05c61ba/coa-d05c61ba8f2c0641.svg"
+    },
+    {
+      "identifier": "BAG-076",
+      "serial": 76,
+      "lotNumber": "489",
+      "contentHash": "0xa260c463e1e2940e5fcc9bc4a173eed2630fa8ec28d2b063c69f5eb1180e270d",
+      "gveCode": "GVE-a260c463",
+      "tokenId": "762247",
+      "txHash": "0x339062a22263d1a087b155c97efbb57adff401415047f88b2c589ef9ee563905",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a260c463/coa-a260c463e1e2940e.svg"
+    },
+    {
+      "identifier": "BAG-077",
+      "serial": 77,
+      "lotNumber": "489",
+      "contentHash": "0x8d6451a18c373de8fe0e40ec9184809acc1b0d98192287378c3e851a55e88313",
+      "gveCode": "GVE-8d6451a1",
+      "tokenId": "762248",
+      "txHash": "0x47b1a5ff1169b85f541d912aef079bccc261c28266eca38804a0a848581b8ab1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8d6451a1/coa-8d6451a18c373de8.svg"
+    },
+    {
+      "identifier": "BAG-078",
+      "serial": 78,
+      "lotNumber": "489",
+      "contentHash": "0x30a6ff293cdd57fe9485aeb2af76de1d3932e0477ff999aa541762b28571dd01",
+      "gveCode": "GVE-30a6ff29",
+      "tokenId": "762249",
+      "txHash": "0x8fa13929c59c19e8eaacd336536863e9eaaca9e1959b65fcd88a167ce4ea39a8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-30a6ff29/coa-30a6ff293cdd57fe.svg"
+    },
+    {
+      "identifier": "BAG-079",
+      "serial": 79,
+      "lotNumber": "489",
+      "contentHash": "0xad8f784b771fdf9cc90654a387ff359738618812db915bcaa505d20c29ee14ea",
+      "gveCode": "GVE-ad8f784b",
+      "tokenId": "762250",
+      "txHash": "0x02fbfc945b41d61633f95481d332ef8592bfe3b5a4f97d738d56927f5de51783",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ad8f784b/coa-ad8f784b771fdf9c.svg"
+    },
+    {
+      "identifier": "BAG-080",
+      "serial": 80,
+      "lotNumber": "489",
+      "contentHash": "0x6939192a96ebd6dfb06b96d1f3924f2bcb049868132acd190912ffe9e399a651",
+      "gveCode": "GVE-6939192a",
+      "tokenId": "762251",
+      "txHash": "0x540390a425953bc4bf56105760a9ea475040dbdf3fa52a03b970b4f857650bca",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6939192a/coa-6939192a96ebd6df.svg"
+    },
+    {
+      "identifier": "BAG-081",
+      "serial": 81,
+      "lotNumber": "489",
+      "contentHash": "0xc3bc17732939f645cd6fc6322852ea661ed603b7c8317012610511d82c4b52f9",
+      "gveCode": "GVE-c3bc1773",
+      "tokenId": "762252",
+      "txHash": "0xc4ad1994fbb9e011cade3d1f95c83307f25ecb212f44a18e28e18636c6d165fd",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c3bc1773/coa-c3bc17732939f645.svg"
+    },
+    {
+      "identifier": "BAG-082",
+      "serial": 82,
+      "lotNumber": "489",
+      "contentHash": "0xfa2db0607a22b76e9b70816a8632343bfda3ef08d62b15765bc74bac170cb5ca",
+      "gveCode": "GVE-fa2db060",
+      "tokenId": "762253",
+      "txHash": "0x2a296caa2752dd182a9ea631f4c70e64fca552c06b9df40aeb87315340ac90fe",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fa2db060/coa-fa2db0607a22b76e.svg"
+    },
+    {
+      "identifier": "BAG-083",
+      "serial": 83,
+      "lotNumber": "489",
+      "contentHash": "0xc9ca92923e1eeb0d07441d4794d8d9038fa458e7ff028ffce54f0d8010ca7521",
+      "gveCode": "GVE-c9ca9292",
+      "tokenId": "762254",
+      "txHash": "0xd1c506047a89939f934670d5f0c739d987a58bfdb6c99501b2b30ca9d64e79ae",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c9ca9292/coa-c9ca92923e1eeb0d.svg"
+    },
+    {
+      "identifier": "BAG-084",
+      "serial": 84,
+      "lotNumber": "489",
+      "contentHash": "0x629f985c6f023f808b4b1c895e505d41e229d6d6c8cd2701d10f74393d325853",
+      "gveCode": "GVE-629f985c",
+      "tokenId": "762255",
+      "txHash": "0x28c6f2ae93b6eb98aab40aed78ad5f70c7da757f1a2d6df528e1c5e465dc6952",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-629f985c/coa-629f985c6f023f80.svg"
+    },
+    {
+      "identifier": "BAG-085",
+      "serial": 85,
+      "lotNumber": "489",
+      "contentHash": "0x50454576cb3d640fd4bfd3cacff47d7954d641a42481d62642cf722c1a92405d",
+      "gveCode": "GVE-50454576",
+      "tokenId": "762256",
+      "txHash": "0xb6fdadef52cc0a3a2da637d3bb79985a3a0e795274609f5671746f0538d1983f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-50454576/coa-50454576cb3d640f.svg"
+    },
+    {
+      "identifier": "BAG-086",
+      "serial": 86,
+      "lotNumber": "489",
+      "contentHash": "0x5a5142d9055ed377403465a9779ede533c86c466d4e1fc4a58024a7c26510238",
+      "gveCode": "GVE-5a5142d9",
+      "tokenId": "762257",
+      "txHash": "0x686288bb29ef9d1d88e60c0fb8fda9710531751a42521f8966a73843f36a0191",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5a5142d9/coa-5a5142d9055ed377.svg"
+    },
+    {
+      "identifier": "BAG-087",
+      "serial": 87,
+      "lotNumber": "489",
+      "contentHash": "0x4d8638e22f2d3c8e075b5de7edf536922aa84f56c9d141ff95a2a62a7216bb2c",
+      "gveCode": "GVE-4d8638e2",
+      "tokenId": "762258",
+      "txHash": "0xd8fe3dfbe25e2b8eb9e7c4f8b532099d148ae95c2d05eebc5266d2cdf8fd6095",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4d8638e2/coa-4d8638e22f2d3c8e.svg"
+    },
+    {
+      "identifier": "BAG-088",
+      "serial": 88,
+      "lotNumber": "489",
+      "contentHash": "0xdda5d6fcb308b920e511674204430267b2646d3e38b4698dc968ce5e5e12ccde",
+      "gveCode": "GVE-dda5d6fc",
+      "tokenId": "762259",
+      "txHash": "0x3802e5d3f77327deb038a7d7de1d247b1e413b75c2c0ee9feca239a8143bf97f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dda5d6fc/coa-dda5d6fcb308b920.svg"
+    },
+    {
+      "identifier": "BAG-089",
+      "serial": 89,
+      "lotNumber": "489",
+      "contentHash": "0xb271bd2e3350f298326aa9ba9dbeb864aafce0c125d3b550f4d0e69dace5269d",
+      "gveCode": "GVE-b271bd2e",
+      "tokenId": "762261",
+      "txHash": "0x811460eb4a79e9d3822d276aef7eaa539eecbc4f1504c4d8d6cb865380f7a1fe",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b271bd2e/coa-b271bd2e3350f298.svg"
+    },
+    {
+      "identifier": "BAG-090",
+      "serial": 90,
+      "lotNumber": "489",
+      "contentHash": "0xe022ae42b254caa0f1b12180a4df940a72da23ea8f162a72bccadf9601e84bbf",
+      "gveCode": "GVE-e022ae42",
+      "tokenId": "762262",
+      "txHash": "0x697b6e97d702f11df8d869dc35134e8b90ebcbffb2e0b91cfb6796f2125dda7f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e022ae42/coa-e022ae42b254caa0.svg"
+    },
+    {
+      "identifier": "BAG-091",
+      "serial": 91,
+      "lotNumber": "489",
+      "contentHash": "0x4e75950117dca2cfc436b8f4cbfa0ad1bf0da92f55c775c4e23475fd1df03436",
+      "gveCode": "GVE-4e759501",
+      "tokenId": "762263",
+      "txHash": "0xa201d9549fc2ec4bb98209eb7a1aff290ae21ea0ade95f77a323a7a045ee1e11",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e759501/coa-4e75950117dca2cf.svg"
+    },
+    {
+      "identifier": "BAG-092",
+      "serial": 92,
+      "lotNumber": "489",
+      "contentHash": "0x5d868ad9f0114e899bdb34e1624bf8189b7d67810d6204ea8a02d96bab638c21",
+      "gveCode": "GVE-5d868ad9",
+      "tokenId": "762264",
+      "txHash": "0x19c78d7e16702b10f90b489f56949659f7b81f5f4efcd73386a589b189fe25bc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5d868ad9/coa-5d868ad9f0114e89.svg"
+    },
+    {
+      "identifier": "BAG-093",
+      "serial": 93,
+      "lotNumber": "489",
+      "contentHash": "0x763db11f0c9a7ceb352ab71e8c509a71c774c48ae7135fd88c0ca9e5af52e6dc",
+      "gveCode": "GVE-763db11f",
+      "tokenId": "762265",
+      "txHash": "0x4fab7cecbd74b6af54460543d332bddba8b56bb3abb4253958af45b790c6b4f9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-763db11f/coa-763db11f0c9a7ceb.svg"
+    },
+    {
+      "identifier": "BAG-094",
+      "serial": 94,
+      "lotNumber": "489",
+      "contentHash": "0x6073899bd3d27c876431d66686f9a405f2fb804ea0ccdc303cb049ff63e44748",
+      "gveCode": "GVE-6073899b",
+      "tokenId": "762266",
+      "txHash": "0x7763384e029b8f9787939b3f322ee58fd6266a34e804d07bf44954b9166b5a38",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6073899b/coa-6073899bd3d27c87.svg"
+    },
+    {
+      "identifier": "BAG-095",
+      "serial": 95,
+      "lotNumber": "489",
+      "contentHash": "0xd5a95846938112127d788cfe8358f93e61a6e26db9266a6d8226b2385adeb964",
+      "gveCode": "GVE-d5a95846",
+      "tokenId": "762267",
+      "txHash": "0xd0266f852e39b44204b00b778f6e9ad1b06c74169c09cf0682870fad6fcd8a07",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d5a95846/coa-d5a9584693811212.svg"
+    },
+    {
+      "identifier": "BAG-096",
+      "serial": 96,
+      "lotNumber": "489",
+      "contentHash": "0xa4ca8aa580916186f0f085f348b3b3a768b469bb7aa5f21f14750c927f1c426e",
+      "gveCode": "GVE-a4ca8aa5",
+      "tokenId": "762268",
+      "txHash": "0x86da3602ea9ca3801c1069a70742cdab3098a859cdd872c5d8bf173664d11ab9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a4ca8aa5/coa-a4ca8aa580916186.svg"
+    },
+    {
+      "identifier": "BAG-097",
+      "serial": 97,
+      "lotNumber": "489",
+      "contentHash": "0x6fcef8fe282919e03ebd6d13d9eb1938fb1a0fb6f97c990cb8bb27b8d7a9eed6",
+      "gveCode": "GVE-6fcef8fe",
+      "tokenId": "762269",
+      "txHash": "0x17c49db99c4506fe602e8791861393010ccd16cdbb0eb68b07ed1fc0190d3531",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6fcef8fe/coa-6fcef8fe282919e0.svg"
+    },
+    {
+      "identifier": "BAG-098",
+      "serial": 98,
+      "lotNumber": "489",
+      "contentHash": "0x6cb8c02889f7df986fade0e24532a3b0a6c6c320e698b76428a11be96c6f5713",
+      "gveCode": "GVE-6cb8c028",
+      "tokenId": "762270",
+      "txHash": "0xda00b92d4a732a083c8067e08d6377361aa63ccb3c2312ac856f0c64f5dd14b4",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6cb8c028/coa-6cb8c02889f7df98.svg"
+    },
+    {
+      "identifier": "BAG-099",
+      "serial": 99,
+      "lotNumber": "489",
+      "contentHash": "0xe7ff4c1a5c3d56c5ef948a10c3c257ac72fe3a2760c06885ec7ef633daf47fd4",
+      "gveCode": "GVE-e7ff4c1a",
+      "tokenId": "762271",
+      "txHash": "0xd6b9dc6d0e2ce4018148831966657929e880d4ad5aa42101e39a952ffc59ae53",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e7ff4c1a/coa-e7ff4c1a5c3d56c5.svg"
+    },
+    {
+      "identifier": "BAG-100",
+      "serial": 100,
+      "lotNumber": "489",
+      "contentHash": "0xd062ef57f0ba9050a844d582f60adefc98c15c875a0a79c8381675873ba8bbb1",
+      "gveCode": "GVE-d062ef57",
+      "tokenId": "762272",
+      "txHash": "0xec4811b04be7ae6589226a5e5eb856dab6f38c665b1c47aad753791c5b7317b0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d062ef57/coa-d062ef57f0ba9050.svg"
+    },
+    {
+      "identifier": "BAG-101",
+      "serial": 101,
+      "lotNumber": "490",
+      "contentHash": "0x08340d8cd0a9cc92d4b3352b6048062fbfe23399e86ee28720fdbf2eac9d1965",
+      "gveCode": "GVE-08340d8c",
+      "tokenId": "762273",
+      "txHash": "0x79a38fc762775576ccf98dc3a9004d47036ba075832cdedbc5f4aaecaf65b5d2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-08340d8c/coa-08340d8cd0a9cc92.svg"
+    },
+    {
+      "identifier": "BAG-102",
+      "serial": 102,
+      "lotNumber": "490",
+      "contentHash": "0xbb8eb2ba2f8ffb7f5cd4bca709d29a5c0d57b414e83fb4023f998bc34ccf90c1",
+      "gveCode": "GVE-bb8eb2ba",
+      "tokenId": "762274",
+      "txHash": "0xfac428117fb77d9a157862770291a2d0de4b11f1af5218a921ad4b4fc395928c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-bb8eb2ba/coa-bb8eb2ba2f8ffb7f.svg"
+    },
+    {
+      "identifier": "BAG-103",
+      "serial": 103,
+      "lotNumber": "490",
+      "contentHash": "0x29a1a84c4dfaa3909b36a67054f5a19cee26153719039de0dbdbe64786535a06",
+      "gveCode": "GVE-29a1a84c",
+      "tokenId": "762275",
+      "txHash": "0x54bae7fbb33a92519e5b178caf7047df9804e435e863d51382a5d81ee214e501",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-29a1a84c/coa-29a1a84c4dfaa390.svg"
+    },
+    {
+      "identifier": "BAG-104",
+      "serial": 104,
+      "lotNumber": "490",
+      "contentHash": "0x4a667b2be645fe60b7cd24033cfbbb81552664d287f3e99451a3cb9760695808",
+      "gveCode": "GVE-4a667b2b",
+      "tokenId": "762276",
+      "txHash": "0x1a2638acb86fc292317797760e2362c2b97fe2f33f0a71acc8629c7a38e3784a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4a667b2b/coa-4a667b2be645fe60.svg"
+    },
+    {
+      "identifier": "BAG-105",
+      "serial": 105,
+      "lotNumber": "490",
+      "contentHash": "0x01138b0d8c7fd0981f91ee4c2ce51de63b9f792340fb987ae8d525fc183c0698",
+      "gveCode": "GVE-01138b0d",
+      "tokenId": "762277",
+      "txHash": "0x57983d09882c44d41566e2e0d9fe0e3702f4a18e3492c94f2d3a9c522463ed99",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-01138b0d/coa-01138b0d8c7fd098.svg"
+    },
+    {
+      "identifier": "BAG-106",
+      "serial": 106,
+      "lotNumber": "490",
+      "contentHash": "0xbb8fa4cc242176d70eea3126b429d28aed7eb9c5efaf9a6175076be935387bd9",
+      "gveCode": "GVE-bb8fa4cc",
+      "tokenId": "762278",
+      "txHash": "0x4d04012a5335cba8cfaee6acff464a368667972d78494c0efc4dda9977915efa",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-bb8fa4cc/coa-bb8fa4cc242176d7.svg"
+    },
+    {
+      "identifier": "BAG-107",
+      "serial": 107,
+      "lotNumber": "490",
+      "contentHash": "0x1f325981247b84fd372ce6bec98e117be8ed4e759e55aceeb5d23a7c8ad5c8fd",
+      "gveCode": "GVE-1f325981",
+      "tokenId": "762279",
+      "txHash": "0x1b4f5af6662a99ccd8578ecb9501895e3a994f1af7e318bf5e777e45d5814e82",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1f325981/coa-1f325981247b84fd.svg"
+    },
+    {
+      "identifier": "BAG-108",
+      "serial": 108,
+      "lotNumber": "490",
+      "contentHash": "0x8f48da5625e0f365acc8ef9502743a3be6c3182818907e385a3ba3c5fd7eccb7",
+      "gveCode": "GVE-8f48da56",
+      "tokenId": "762280",
+      "txHash": "0x0be2bc4882cd4e116c08f297c092683dfaeed7b04614f277e4fb476c6245ccc1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8f48da56/coa-8f48da5625e0f365.svg"
+    },
+    {
+      "identifier": "BAG-109",
+      "serial": 109,
+      "lotNumber": "490",
+      "contentHash": "0x496beac7d88f03307b692829cf250013923ae00e06b0f386eefac94b4281db30",
+      "gveCode": "GVE-496beac7",
+      "tokenId": "762281",
+      "txHash": "0xade59fa272ea5fd98ac06bba6aac5d6833003bb9f25d933f7ee3e2830e4e8224",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-496beac7/coa-496beac7d88f0330.svg"
+    },
+    {
+      "identifier": "BAG-110",
+      "serial": 110,
+      "lotNumber": "490",
+      "contentHash": "0xda36ef9355db03e55491baeaeda65720ca390411d99f126e3dfaf0d64768b7c3",
+      "gveCode": "GVE-da36ef93",
+      "tokenId": "762282",
+      "txHash": "0xccbe088cc94d7bf1b36c3c92efd4a5e72fc66befda0a645260ee3b52613fef68",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-da36ef93/coa-da36ef9355db03e5.svg"
+    },
+    {
+      "identifier": "BAG-111",
+      "serial": 111,
+      "lotNumber": "490",
+      "contentHash": "0x8f1855b3fbbe636af25044cc1fe6b2af9ca5180e67b6b28ca4ce69fd4c19e880",
+      "gveCode": "GVE-8f1855b3",
+      "tokenId": "762283",
+      "txHash": "0x550baee7fad7a2d4a8d4a6eeb85a567ef9e6229a25dd54880ed1169c4c3d99e7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8f1855b3/coa-8f1855b3fbbe636a.svg"
+    },
+    {
+      "identifier": "BAG-112",
+      "serial": 112,
+      "lotNumber": "490",
+      "contentHash": "0xcccacf080f4c5ed0b54c1a52df898d30c251f8c89e7b3a49e67f8b8b86c0d2ed",
+      "gveCode": "GVE-cccacf08",
+      "tokenId": "762284",
+      "txHash": "0xf39607ec46ca19abaf32b74ef665430bf18302edf3aa0e6cacbba70df4f736df",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cccacf08/coa-cccacf080f4c5ed0.svg"
+    },
+    {
+      "identifier": "BAG-113",
+      "serial": 113,
+      "lotNumber": "490",
+      "contentHash": "0xbe965fea254ab72b3662032085e945f5cbe4cfc91a60712b0a4ae75256ec9b86",
+      "gveCode": "GVE-be965fea",
+      "tokenId": "762285",
+      "txHash": "0xca29996d8ff68f4c8e4ed93d4df303280bb080fc7d5d377e3da92c23d78d00ae",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-be965fea/coa-be965fea254ab72b.svg"
+    },
+    {
+      "identifier": "BAG-114",
+      "serial": 114,
+      "lotNumber": "490",
+      "contentHash": "0x2e6a3038a8f9758269d12aff15ba646c0ce59cdcb220c32c13d8fb04e5cef5e2",
+      "gveCode": "GVE-2e6a3038",
+      "tokenId": "762286",
+      "txHash": "0x201bee124945ed9b63fde813ef744b3cb3a3bfc856026bd48e3516bfe82d884d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2e6a3038/coa-2e6a3038a8f97582.svg"
+    },
+    {
+      "identifier": "BAG-115",
+      "serial": 115,
+      "lotNumber": "490",
+      "contentHash": "0xdad4c02028ae16f7c2648d23dd41e72e4e9c8f06bcc8e37b76d62dba581c24af",
+      "gveCode": "GVE-dad4c020",
+      "tokenId": "762287",
+      "txHash": "0xb67e3b87cd38282ea532e27f9d39fd3f58d77d0dc6c5f9f313072ac42c525f9a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dad4c020/coa-dad4c02028ae16f7.svg"
+    },
+    {
+      "identifier": "BAG-116",
+      "serial": 116,
+      "lotNumber": "490",
+      "contentHash": "0xd06e8364087250af573b3ad267c9b8cd8715c38ee1f3fa69123e5cc200373edf",
+      "gveCode": "GVE-d06e8364",
+      "tokenId": "762288",
+      "txHash": "0x99877295ba00bdf978e0a2fd8d0a0ca9c6ea6e4d5ebf1cdeacb3502eacb3003d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d06e8364/coa-d06e8364087250af.svg"
+    },
+    {
+      "identifier": "BAG-117",
+      "serial": 117,
+      "lotNumber": "490",
+      "contentHash": "0x9b227a9c530c2d2d0bf68062ec41528582f3421c83456f449935a6dd35f33d45",
+      "gveCode": "GVE-9b227a9c",
+      "tokenId": "762289",
+      "txHash": "0xa5fb70b674eebacb7cb132afdcb2ecc710390e350cd5cd72b8dfe7c0d4353cdf",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9b227a9c/coa-9b227a9c530c2d2d.svg"
+    },
+    {
+      "identifier": "BAG-118",
+      "serial": 118,
+      "lotNumber": "490",
+      "contentHash": "0x3d6be5999a186c09cf60b058524a6450c6f38ae3f55d47d02d51b7532ffd532c",
+      "gveCode": "GVE-3d6be599",
+      "tokenId": "762290",
+      "txHash": "0x710d0782639e48286e1ce1e853e9ab69940764e09a7334f5fa7324b1d80e87ad",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3d6be599/coa-3d6be5999a186c09.svg"
+    },
+    {
+      "identifier": "BAG-119",
+      "serial": 119,
+      "lotNumber": "490",
+      "contentHash": "0x8741ad031422bcad28d9424cc8351266b902afed3ed702405fe9ed75b9f30a1f",
+      "gveCode": "GVE-8741ad03",
+      "tokenId": "762291",
+      "txHash": "0x8132f8e783342361241fac2b3c17ac9e1a141f1e2d10b236a14f7625c67e58bc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8741ad03/coa-8741ad031422bcad.svg"
+    },
+    {
+      "identifier": "BAG-120",
+      "serial": 120,
+      "lotNumber": "490",
+      "contentHash": "0x4f24bb3f50bdf2a88034aa40269d0f633101cf56080bb93b53c791697af26b6a",
+      "gveCode": "GVE-4f24bb3f",
+      "tokenId": "762292",
+      "txHash": "0xd6829a758c75b502f69ae2dcb154afb25e16be39417b8f85923f56382899ca84",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4f24bb3f/coa-4f24bb3f50bdf2a8.svg"
+    },
+    {
+      "identifier": "BAG-121",
+      "serial": 121,
+      "lotNumber": "490",
+      "contentHash": "0x3214c9f350a176b32553330cd2facf3396841a3d2e56f251fe2d5b08ad42a972",
+      "gveCode": "GVE-3214c9f3",
+      "tokenId": "762293",
+      "txHash": "0xebbf2a0d2303f85c701add3455b5bb435adc007c3f52ba7ed1a88cc40b44d39d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3214c9f3/coa-3214c9f350a176b3.svg"
+    },
+    {
+      "identifier": "BAG-122",
+      "serial": 122,
+      "lotNumber": "490",
+      "contentHash": "0x50dcc3e16482b502a275c1d7ea1f68052b28ae3237f37e7d2c0e8503c468c6a6",
+      "gveCode": "GVE-50dcc3e1",
+      "tokenId": "762294",
+      "txHash": "0x8596f3e671d423fdb5240df28f1df0864c5e7008bb63f179b2b6f380c2a2ebd3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-50dcc3e1/coa-50dcc3e16482b502.svg"
+    },
+    {
+      "identifier": "BAG-123",
+      "serial": 123,
+      "lotNumber": "490",
+      "contentHash": "0x2961a12f0835e1aed71a7ae0187ab5578d1d1117d89928d35cd6ee93c0a211a6",
+      "gveCode": "GVE-2961a12f",
+      "tokenId": "762296",
+      "txHash": "0xbfa6d57e50f4097903549cf305aaea852850b6847b1ab85b9a80d21c65205d45",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2961a12f/coa-2961a12f0835e1ae.svg"
+    },
+    {
+      "identifier": "BAG-124",
+      "serial": 124,
+      "lotNumber": "490",
+      "contentHash": "0x1647e01327bd0cfdc0ef9206eda063ef92790ea1a84eb9a7f5b86f19a7734d72",
+      "gveCode": "GVE-1647e013",
+      "tokenId": "762297",
+      "txHash": "0x1b4c9bd4908358e536033dad44794b2a6ac2e974d5c3da2db9f2a1738124578b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1647e013/coa-1647e01327bd0cfd.svg"
+    },
+    {
+      "identifier": "BAG-125",
+      "serial": 125,
+      "lotNumber": "490",
+      "contentHash": "0x53d16a60026be8a680a24d2fa271376c627775779545d50ea219cec8a846fe66",
+      "gveCode": "GVE-53d16a60",
+      "tokenId": "762298",
+      "txHash": "0xa61bc4730c3e92986de0807ce1585bd6da14a4b7ff85718ad8747f778d613451",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-53d16a60/coa-53d16a60026be8a6.svg"
+    },
+    {
+      "identifier": "BAG-126",
+      "serial": 126,
+      "lotNumber": "490",
+      "contentHash": "0xaa785080bd1e0b2c2f535aa457a7750b96a20355a626c69290f0197ee7997806",
+      "gveCode": "GVE-aa785080",
+      "tokenId": "762299",
+      "txHash": "0x3bbaf8a8f558dec02c5aaa38df5569246beefafe4c59aba5a6a296af324cd48d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-aa785080/coa-aa785080bd1e0b2c.svg"
+    },
+    {
+      "identifier": "BAG-127",
+      "serial": 127,
+      "lotNumber": "490",
+      "contentHash": "0xaf00224b3bbc1224a799b200194d1f4082f895192f65ea8c380bc8067db5481a",
+      "gveCode": "GVE-af00224b",
+      "tokenId": "762300",
+      "txHash": "0x54f4acc13c217397b661784403c82a069d4d13f4dd46bbf805d95d1ab43f52c5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-af00224b/coa-af00224b3bbc1224.svg"
+    },
+    {
+      "identifier": "BAG-128",
+      "serial": 128,
+      "lotNumber": "490",
+      "contentHash": "0xeee3eee34e40a810828afac6aca562aeeca28598edf9efd2dabe9bd4d1aae805",
+      "gveCode": "GVE-eee3eee3",
+      "tokenId": "762301",
+      "txHash": "0xa98640cce23b7bca8dee50ca4962a3fb1f06871960f2fb8be4887f9d1176ede6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-eee3eee3/coa-eee3eee34e40a810.svg"
+    },
+    {
+      "identifier": "BAG-129",
+      "serial": 129,
+      "lotNumber": "490",
+      "contentHash": "0xaa5b8e00c62190715272f0ffd3e1e05278b5f12f8aac5113db51e173c869c5f3",
+      "gveCode": "GVE-aa5b8e00",
+      "tokenId": "762302",
+      "txHash": "0x48e21a6a51d5120634c55277f274cc8343862d95768b1090c977867269d23373",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-aa5b8e00/coa-aa5b8e00c6219071.svg"
+    },
+    {
+      "identifier": "BAG-130",
+      "serial": 130,
+      "lotNumber": "490",
+      "contentHash": "0x7dbc17b534928c44b305c61940c021094bb418585cffb5faff603bc744f7bd72",
+      "gveCode": "GVE-7dbc17b5",
+      "tokenId": "762303",
+      "txHash": "0x95da736e174843cdc370931a6530d50eab0e5813d4e8df83d9624af667b74bc8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-7dbc17b5/coa-7dbc17b534928c44.svg"
+    },
+    {
+      "identifier": "BAG-131",
+      "serial": 131,
+      "lotNumber": "490",
+      "contentHash": "0xd0aac1ba6fcfcaa8af39d094d290b37a866378006785491dfca96ea429273fff",
+      "gveCode": "GVE-d0aac1ba",
+      "tokenId": "762304",
+      "txHash": "0x33dddbb381c3fafe47b80f1f3c2110cecd4b9ab32a70b45cd244db974590859b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d0aac1ba/coa-d0aac1ba6fcfcaa8.svg"
+    },
+    {
+      "identifier": "BAG-132",
+      "serial": 132,
+      "lotNumber": "490",
+      "contentHash": "0x612109da29ca46d72d8fdb046c51a0d97308c65c2b6e39b837e70045f687e410",
+      "gveCode": "GVE-612109da",
+      "tokenId": "762305",
+      "txHash": "0x36319b942f35fa6690844980b40f796bf0a2ca04d08dbaf9b9fdca9042babf06",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-612109da/coa-612109da29ca46d7.svg"
+    },
+    {
+      "identifier": "BAG-133",
+      "serial": 133,
+      "lotNumber": "490",
+      "contentHash": "0x5585b1c95454da793c63f23be85f1657ffdbe168097065bbd1bc27f625cfc6cb",
+      "gveCode": "GVE-5585b1c9",
+      "tokenId": "762306",
+      "txHash": "0xdcd4338cbadc5a78bf975adc303a911f6c6efaafb0a000bb8ce75eb9b0aa91b2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5585b1c9/coa-5585b1c95454da79.svg"
+    },
+    {
+      "identifier": "BAG-134",
+      "serial": 134,
+      "lotNumber": "490",
+      "contentHash": "0x6d8900f86b5a96002587b4c444e0c25b6963856f26736cc135703f86d5ef8e34",
+      "gveCode": "GVE-6d8900f8",
+      "tokenId": "762307",
+      "txHash": "0x3d61b7255d246dd0998d83ecd84c743ebb9758d3980ff7e60f353b8536d8d81c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6d8900f8/coa-6d8900f86b5a9600.svg"
+    },
+    {
+      "identifier": "BAG-135",
+      "serial": 135,
+      "lotNumber": "490",
+      "contentHash": "0xdd10064bb832c0d7a9a618c1445a0e815191606585cf4e6e2f3ee1e32a6e09f3",
+      "gveCode": "GVE-dd10064b",
+      "tokenId": "762308",
+      "txHash": "0xfd582195510b744a1daa46abe5fcf7cb0a18ccebed42c990ad917166bf024556",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dd10064b/coa-dd10064bb832c0d7.svg"
+    },
+    {
+      "identifier": "BAG-136",
+      "serial": 136,
+      "lotNumber": "490",
+      "contentHash": "0xdead7c20c7ad83cca0f554c1746a8cdcb9c8e7021751dda7b650357e96d81755",
+      "gveCode": "GVE-dead7c20",
+      "tokenId": "762309",
+      "txHash": "0xfbab7488a7c2f7e776ef7958dd937fc2a52046fc8c8f37f68236862e575abfce",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dead7c20/coa-dead7c20c7ad83cc.svg"
+    },
+    {
+      "identifier": "BAG-137",
+      "serial": 137,
+      "lotNumber": "490",
+      "contentHash": "0xda187bc63bb028c8015b8bfdbcc911171a63ff7b829f1d5d8c023d95ae80b55a",
+      "gveCode": "GVE-da187bc6",
+      "tokenId": "762310",
+      "txHash": "0xd908c569042318b3f1d1b8c76ae64ecf08dee3599b4d34da5147c1377b733a48",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-da187bc6/coa-da187bc63bb028c8.svg"
+    },
+    {
+      "identifier": "BAG-138",
+      "serial": 138,
+      "lotNumber": "490",
+      "contentHash": "0x69379b6d08bdeb7f3a66319509eacfcf2bf25ba138eaf3b7f98d4303c828f500",
+      "gveCode": "GVE-69379b6d",
+      "tokenId": "762311",
+      "txHash": "0x7c5e0b90662f1a962f676d92a2e8db7bdd6e6742cc5dbc20d040d083f7a28c21",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-69379b6d/coa-69379b6d08bdeb7f.svg"
+    },
+    {
+      "identifier": "BAG-139",
+      "serial": 139,
+      "lotNumber": "490",
+      "contentHash": "0xdd9c8640e13620dc5e44c131345f893b94df5629662c63d6d1be1534cc57dcad",
+      "gveCode": "GVE-dd9c8640",
+      "tokenId": "762312",
+      "txHash": "0xd538b5271674c7e87efa17bf67379a6fee2f8c734fe87d4e6949e1043602dc80",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dd9c8640/coa-dd9c8640e13620dc.svg"
+    },
+    {
+      "identifier": "BAG-140",
+      "serial": 140,
+      "lotNumber": "490",
+      "contentHash": "0xb5660f7634c5af4ea092a1cfe894a2ad3a78fa2f9994abe9b68d53a095c4eb03",
+      "gveCode": "GVE-b5660f76",
+      "tokenId": "762313",
+      "txHash": "0x9b6c0f224aba1af1693d3f1f0b1be7e9429a6a3f97f36ce973d7250ecc55a718",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b5660f76/coa-b5660f7634c5af4e.svg"
+    },
+    {
+      "identifier": "BAG-141",
+      "serial": 141,
+      "lotNumber": "490",
+      "contentHash": "0x110d3e82ed521cf1ba423290db01d2a658dd5be6de17a3fc754f72c60d903292",
+      "gveCode": "GVE-110d3e82",
+      "tokenId": "762314",
+      "txHash": "0x11d3906e935a476b092507268d98c04777ca760c9ffc62c0132afdfdee50e84e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-110d3e82/coa-110d3e82ed521cf1.svg"
+    },
+    {
+      "identifier": "BAG-142",
+      "serial": 142,
+      "lotNumber": "490",
+      "contentHash": "0x46d4d9f2536530d0cbfa54388c13004f6d145f8b131ded313be0da890e21a72a",
+      "gveCode": "GVE-46d4d9f2",
+      "tokenId": "762315",
+      "txHash": "0x30f4ec0d1916d626252c3f3422d4a50182fcaf536490e654a0a35a23a027a460",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-46d4d9f2/coa-46d4d9f2536530d0.svg"
+    },
+    {
+      "identifier": "BAG-143",
+      "serial": 143,
+      "lotNumber": "490",
+      "contentHash": "0x5873dd3a0816152ed095c1ad84b520c3ab3fed90d0fd2419ed29ccbf00058578",
+      "gveCode": "GVE-5873dd3a",
+      "tokenId": "762316",
+      "txHash": "0xd7e0916a623a50145d6ce7300d57f240024004bbd5240a0e4c34484e494a50ce",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5873dd3a/coa-5873dd3a0816152e.svg"
+    },
+    {
+      "identifier": "BAG-144",
+      "serial": 144,
+      "lotNumber": "490",
+      "contentHash": "0x9b2430210773839307bfeef77fbe6e72220179b9c97fe30dd4392819305d153c",
+      "gveCode": "GVE-9b243021",
+      "tokenId": "762317",
+      "txHash": "0x562ad54fa78444aabb84a7f066deb5adf730cc07e34284b7832a86de3a4d727e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9b243021/coa-9b24302107738393.svg"
+    },
+    {
+      "identifier": "BAG-145",
+      "serial": 145,
+      "lotNumber": "490",
+      "contentHash": "0x4ad1b6c5f563d2fe690437de984e480923a34375570991c8de94a03930185936",
+      "gveCode": "GVE-4ad1b6c5",
+      "tokenId": "762318",
+      "txHash": "0xd237cbf554f605bf10700ba5fd42ab0067794f68088871c6830c28d87fdb681e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4ad1b6c5/coa-4ad1b6c5f563d2fe.svg"
+    },
+    {
+      "identifier": "BAG-146",
+      "serial": 146,
+      "lotNumber": "490",
+      "contentHash": "0x90924b820fdc778c1580adaafe59964f5ce7458776ae552df8253396dbca124f",
+      "gveCode": "GVE-90924b82",
+      "tokenId": "762319",
+      "txHash": "0x95bf2b335d838b3595da39c941e6167eb5b943694ac6e1985e058b92bdd37bd3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-90924b82/coa-90924b820fdc778c.svg"
+    },
+    {
+      "identifier": "BAG-147",
+      "serial": 147,
+      "lotNumber": "490",
+      "contentHash": "0xd43e2fd954dce097d8af6669b5445b7787766a3ef8b2a9024932420bb9d84411",
+      "gveCode": "GVE-d43e2fd9",
+      "tokenId": "762320",
+      "txHash": "0x3105fee24b4ed2ce12529ae186e0aca3fe4a97455a66a39deae03adcee977ad5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d43e2fd9/coa-d43e2fd954dce097.svg"
+    },
+    {
+      "identifier": "BAG-148",
+      "serial": 148,
+      "lotNumber": "490",
+      "contentHash": "0x064467f48c6eec8a71f8aa0f9d92d0505f438f0a42c666b11bcb5e243d847b0a",
+      "gveCode": "GVE-064467f4",
+      "tokenId": "762321",
+      "txHash": "0x8cdf080db1eaebc84e6041ddddee438fce7afddd54bbfdca074591c3ce839058",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-064467f4/coa-064467f48c6eec8a.svg"
+    },
+    {
+      "identifier": "BAG-149",
+      "serial": 149,
+      "lotNumber": "490",
+      "contentHash": "0x5f9c5952a85959d39d3113118b10e4f6d377b7fdcc3c887d98bba72f3120534d",
+      "gveCode": "GVE-5f9c5952",
+      "tokenId": "762323",
+      "txHash": "0xa75ed19f0bb4337fb4f0e20356bca8a9f2941e1193b4f1ec4d18aaa31e7bf97f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5f9c5952/coa-5f9c5952a85959d3.svg"
+    },
+    {
+      "identifier": "BAG-150",
+      "serial": 150,
+      "lotNumber": "490",
+      "contentHash": "0x0579a97df5ba822a08a5b835a6040b2b6d573a76cf8157cadfd94b2e51d83fce",
+      "gveCode": "GVE-0579a97d",
+      "tokenId": "762324",
+      "txHash": "0xbc28748bd7cb2515fc5e99a2dad184f4bcd36beb1abea6d8b3183618a100c810",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0579a97d/coa-0579a97df5ba822a.svg"
+    },
+    {
+      "identifier": "BAG-151",
+      "serial": 151,
+      "lotNumber": "490",
+      "contentHash": "0x04eab9edc63fea2c2c4e6575c38dda568de27de35db56595cf9f1e629a2c479f",
+      "gveCode": "GVE-04eab9ed",
+      "tokenId": "762325",
+      "txHash": "0x13ec15cf2915bf85a76edf64fd55c3c4127313eece9142a5cfa9fac2435008e9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-04eab9ed/coa-04eab9edc63fea2c.svg"
+    },
+    {
+      "identifier": "BAG-152",
+      "serial": 152,
+      "lotNumber": "490",
+      "contentHash": "0x2f69c223fe1e880606729697b2d0d2d60e597fca99a716f355da9d7010567f8d",
+      "gveCode": "GVE-2f69c223",
+      "tokenId": "762326",
+      "txHash": "0xc16fbeca6b40ad80b01452787a6839be446f97fa770ef429377db02f633c00af",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2f69c223/coa-2f69c223fe1e8806.svg"
+    },
+    {
+      "identifier": "BAG-153",
+      "serial": 153,
+      "lotNumber": "490",
+      "contentHash": "0xcc3ef7855f878564d2cb16dfeab5155190016eb5ce01318a9e489f043062348f",
+      "gveCode": "GVE-cc3ef785",
+      "tokenId": "762327",
+      "txHash": "0x518b118e426e5fd409bd7e18a92618d0463882cc7e7b1aeaa477996651fdac28",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cc3ef785/coa-cc3ef7855f878564.svg"
+    },
+    {
+      "identifier": "BAG-154",
+      "serial": 154,
+      "lotNumber": "490",
+      "contentHash": "0x279ccb7ef40cd4368db4eaa6c3f02bb2d7c35587143fd90081909fbf25681f8d",
+      "gveCode": "GVE-279ccb7e",
+      "tokenId": "762328",
+      "txHash": "0x1ae257ca80c4a3c77db0cbe77bfb174167c3bab353ed3d3acee2f7dae4dfb3b9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-279ccb7e/coa-279ccb7ef40cd436.svg"
+    },
+    {
+      "identifier": "BAG-155",
+      "serial": 155,
+      "lotNumber": "490",
+      "contentHash": "0x7196417809fc77c9f4878ef04984c6e69381b673d5d1e5c7d221e00cf74025a0",
+      "gveCode": "GVE-71964178",
+      "tokenId": "762329",
+      "txHash": "0x306ebb0c332c437b0907e305874be27664c39a86332ba6e94eec5d1ebf33d3a0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-71964178/coa-7196417809fc77c9.svg"
+    },
+    {
+      "identifier": "BAG-156",
+      "serial": 156,
+      "lotNumber": "490",
+      "contentHash": "0xcabacaedf3cfdf90a9c27b2fe95f678dac31d495ff1fe86f371fda3c5a6e74f6",
+      "gveCode": "GVE-cabacaed",
+      "tokenId": "762330",
+      "txHash": "0xc6c8154c9790e7bf8d5dbfe1b498bbe44269ae007268e2b892159d0eba13ac7b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cabacaed/coa-cabacaedf3cfdf90.svg"
+    },
+    {
+      "identifier": "BAG-157",
+      "serial": 157,
+      "lotNumber": "490",
+      "contentHash": "0xa94ae30e434324e2dfc581fc90ff9985cba63c640ab854c84d61a9deeb015bf7",
+      "gveCode": "GVE-a94ae30e",
+      "tokenId": "762331",
+      "txHash": "0x7bef4faa2f62106aa1fe797aec69514c4622a981fe6d848103c87209512ce3a6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a94ae30e/coa-a94ae30e434324e2.svg"
+    },
+    {
+      "identifier": "BAG-158",
+      "serial": 158,
+      "lotNumber": "490",
+      "contentHash": "0xedfff32ff09051a2f77f7e7d4dc7a38ca88db7b8850821f438e9aaab7438544d",
+      "gveCode": "GVE-edfff32f",
+      "tokenId": "762332",
+      "txHash": "0xbab6a0b3ff3d4c4776f2878c65143e5c190137b8d03e13af05d91d55e7e39229",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-edfff32f/coa-edfff32ff09051a2.svg"
+    },
+    {
+      "identifier": "BAG-159",
+      "serial": 159,
+      "lotNumber": "490",
+      "contentHash": "0xe8e7867f24a2a57c3420cb72f5f1375411c4b50cafcbbc3329ac3eede5c22517",
+      "gveCode": "GVE-e8e7867f",
+      "tokenId": "762333",
+      "txHash": "0x15d747d708a1e29363ae85e8ef331c3f2d72fedfddd5e351abe212b63f7a9c4f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e8e7867f/coa-e8e7867f24a2a57c.svg"
+    },
+    {
+      "identifier": "BAG-160",
+      "serial": 160,
+      "lotNumber": "490",
+      "contentHash": "0xeb6fd5f5f7d6cf9f00ef9946da20a07ed37e0af8743006ffb01d0663a3791f82",
+      "gveCode": "GVE-eb6fd5f5",
+      "tokenId": "762334",
+      "txHash": "0x728a2930f8d72e114713440925762f5188bdc82e62d97408ee468bcb3c17d91d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-eb6fd5f5/coa-eb6fd5f5f7d6cf9f.svg"
+    },
+    {
+      "identifier": "BAG-161",
+      "serial": 161,
+      "lotNumber": "490",
+      "contentHash": "0x0dbe75e3c6c95a519261f6bb9f239153f8e753d3a45e0d367069b5ccd163251f",
+      "gveCode": "GVE-0dbe75e3",
+      "tokenId": "762335",
+      "txHash": "0x648307ea33235ad8fbd43d513456c716a998b5e72e5a45915db730043ae67476",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0dbe75e3/coa-0dbe75e3c6c95a51.svg"
+    },
+    {
+      "identifier": "BAG-162",
+      "serial": 162,
+      "lotNumber": "490",
+      "contentHash": "0xf313862a115f3d09653bb289477b929ea9a8ae84207cba421efee1cfceb2ad6b",
+      "gveCode": "GVE-f313862a",
+      "tokenId": "762337",
+      "txHash": "0xd299397909068b3b6d5ad0917b1f48011aaf8aede0b685f67de4ba7430fd6b27",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f313862a/coa-f313862a115f3d09.svg"
+    },
+    {
+      "identifier": "BAG-163",
+      "serial": 163,
+      "lotNumber": "490",
+      "contentHash": "0x5e615d972cc188b074807bf1d8dc8507d5c03e8476c8138330c15651729f65d2",
+      "gveCode": "GVE-5e615d97",
+      "tokenId": "762338",
+      "txHash": "0x0e8671d334a1cf913d45e2d0197197bc3cc1a5eee3cfe82ebb05ae0f2cda85ae",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5e615d97/coa-5e615d972cc188b0.svg"
+    },
+    {
+      "identifier": "BAG-164",
+      "serial": 164,
+      "lotNumber": "490",
+      "contentHash": "0xdf85f1b821354759679c8e1fe2cbb7b5d17f7c004a25f25f6f3299f63ca05cc8",
+      "gveCode": "GVE-df85f1b8",
+      "tokenId": "762339",
+      "txHash": "0x1a23d1815f7fb27b25cf51d68e283928b729f0a62b320bc408c50fa22586e80e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-df85f1b8/coa-df85f1b821354759.svg"
+    },
+    {
+      "identifier": "BAG-165",
+      "serial": 165,
+      "lotNumber": "490",
+      "contentHash": "0x2d36a69b7042e5215fd47b2bcf1d44dc73de01db783416a500f6c4b1539fdcad",
+      "gveCode": "GVE-2d36a69b",
+      "tokenId": "762340",
+      "txHash": "0x3f8e0702f218970673203ad0b5b4699ffd907a3a84347c75a395e99ee26246b2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2d36a69b/coa-2d36a69b7042e521.svg"
+    },
+    {
+      "identifier": "BAG-166",
+      "serial": 166,
+      "lotNumber": "490",
+      "contentHash": "0xd6b6d07abfa18431e8a68bea5446b634de969d6b3ed7116c87740338794e535e",
+      "gveCode": "GVE-d6b6d07a",
+      "tokenId": "762341",
+      "txHash": "0x2b76d7059f225da55baf8e2e6f6adbf2f64fd51c5c79a551b7e85be2e5575c20",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d6b6d07a/coa-d6b6d07abfa18431.svg"
+    },
+    {
+      "identifier": "BAG-167",
+      "serial": 167,
+      "lotNumber": "490",
+      "contentHash": "0x3dd4582e36c42abd56175a5893ac8ebcc6e8b2e9d1e779ac3f6d1330fac4448f",
+      "gveCode": "GVE-3dd4582e",
+      "tokenId": "762342",
+      "txHash": "0x556bdee142ff3f57e70dff2a9bb039a516037ca0ce4c68024dd14c67f8fdc6f8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3dd4582e/coa-3dd4582e36c42abd.svg"
+    },
+    {
+      "identifier": "BAG-168",
+      "serial": 168,
+      "lotNumber": "490",
+      "contentHash": "0x9d30178e7cb5e290446a08a92d00de283a36035d6d7fc6bb2b9a112e98795d45",
+      "gveCode": "GVE-9d30178e",
+      "tokenId": "762343",
+      "txHash": "0xbda5566a33ee366ae359fc9dc7b0793adf051ee200d08f7f96537cbb95e7f751",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9d30178e/coa-9d30178e7cb5e290.svg"
+    },
+    {
+      "identifier": "BAG-169",
+      "serial": 169,
+      "lotNumber": "490",
+      "contentHash": "0x76d547ebba386cfed6e0759c1c1f3c9177df715b42117793b0b023b80b8f3506",
+      "gveCode": "GVE-76d547eb",
+      "tokenId": "762344",
+      "txHash": "0xee11a5e554702836bc675f434c926fd47a440276367a550a527f886be65917d7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-76d547eb/coa-76d547ebba386cfe.svg"
+    },
+    {
+      "identifier": "BAG-170",
+      "serial": 170,
+      "lotNumber": "490",
+      "contentHash": "0xa216629e11ead980d187386ee48b5f2bca8903b5be485735a6aed03aad6d70bc",
+      "gveCode": "GVE-a216629e",
+      "tokenId": "762345",
+      "txHash": "0x4ea09201a157d9469a813a162a582a924eabbe15f13d39ac7db094502acd7582",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a216629e/coa-a216629e11ead980.svg"
+    },
+    {
+      "identifier": "BAG-171",
+      "serial": 171,
+      "lotNumber": "490",
+      "contentHash": "0x48b2227e72e741adae89c2ce68a5757f51c99736be3e32995957bba7c756e833",
+      "gveCode": "GVE-48b2227e",
+      "tokenId": "762346",
+      "txHash": "0xcb81faa1c1b637a344f9734b75762900243cd45c8fce7487fcc411b19a569f05",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-48b2227e/coa-48b2227e72e741ad.svg"
+    },
+    {
+      "identifier": "BAG-172",
+      "serial": 172,
+      "lotNumber": "490",
+      "contentHash": "0x8fcdae3488ddb62e8875adf1a7f44122f75142192a44cb1f98bad12a780aeb61",
+      "gveCode": "GVE-8fcdae34",
+      "tokenId": "762347",
+      "txHash": "0x051bda841d28eb907b35d44fde06460e37e38eec2baeb6be3add53fbabcd3a52",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8fcdae34/coa-8fcdae3488ddb62e.svg"
+    },
+    {
+      "identifier": "BAG-173",
+      "serial": 173,
+      "lotNumber": "490",
+      "contentHash": "0x39c47541babb78ee865f5c55fe70688df179d6e1ae1ea5938edc0c16a5eeec67",
+      "gveCode": "GVE-39c47541",
+      "tokenId": "762348",
+      "txHash": "0x32377e6d96767ac187f406190c74e4c934d2c5dd536fae4f73b1d93be0beaf62",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-39c47541/coa-39c47541babb78ee.svg"
+    },
+    {
+      "identifier": "BAG-174",
+      "serial": 174,
+      "lotNumber": "490",
+      "contentHash": "0x9c65cffdff9e8a4eb250f40d555f21d5ba7e563549454b4a16ca9ccf7c54b81b",
+      "gveCode": "GVE-9c65cffd",
+      "tokenId": "762349",
+      "txHash": "0xf9720d49409b396e8d65ccf26b079c40045f6ed163d93dee6045e81d90fffd8d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9c65cffd/coa-9c65cffdff9e8a4e.svg"
+    },
+    {
+      "identifier": "BAG-175",
+      "serial": 175,
+      "lotNumber": "490",
+      "contentHash": "0xb26ea8a38d99ee72d4d07b34180ff7221f8207021d5d1ec969b9c134eb47f329",
+      "gveCode": "GVE-b26ea8a3",
+      "tokenId": "762350",
+      "txHash": "0x09613adad6f3c571092588077be33d10e76fc2ec9f64d88d6908ec563f928b85",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b26ea8a3/coa-b26ea8a38d99ee72.svg"
+    },
+    {
+      "identifier": "BAG-176",
+      "serial": 176,
+      "lotNumber": "490",
+      "contentHash": "0x12c445e5f0a404c5e497ef1d020aa2141a5da7f601012215cb4373aa90421506",
+      "gveCode": "GVE-12c445e5",
+      "tokenId": "762351",
+      "txHash": "0x7ee83c4f8a189ae782628c99eec05d405386b7ccd1e629452c32bdcef3625ec5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-12c445e5/coa-12c445e5f0a404c5.svg"
+    },
+    {
+      "identifier": "BAG-177",
+      "serial": 177,
+      "lotNumber": "490",
+      "contentHash": "0x8a580a2637b2a528cddc0857a87062321660d4265e52bbdd8e316f25251324ea",
+      "gveCode": "GVE-8a580a26",
+      "tokenId": "762352",
+      "txHash": "0x982f58948fc698d9db32088b797e34e1f3d4bb0122e9c854b2934be8eb0dde6e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8a580a26/coa-8a580a2637b2a528.svg"
+    },
+    {
+      "identifier": "BAG-178",
+      "serial": 178,
+      "lotNumber": "490",
+      "contentHash": "0x488b6b2715596989ad89b60a291186099f60c2ab949bf3c854590c1ec1c73666",
+      "gveCode": "GVE-488b6b27",
+      "tokenId": "762353",
+      "txHash": "0x62cb8218c2872fdbdfa2d8bbc6f8976b87b97a167f3474879ed214e27500218c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-488b6b27/coa-488b6b2715596989.svg"
+    },
+    {
+      "identifier": "BAG-179",
+      "serial": 179,
+      "lotNumber": "490",
+      "contentHash": "0xce72b69aa11f5aa3cac569add3c56bc28afbb321feebe42370fd77e31073cf37",
+      "gveCode": "GVE-ce72b69a",
+      "tokenId": "762354",
+      "txHash": "0x42267deb032d65cc831ff20dfe4e7f4ecbe87cdebfc56ec86671342b507e2e3b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ce72b69a/coa-ce72b69aa11f5aa3.svg"
+    },
+    {
+      "identifier": "BAG-180",
+      "serial": 180,
+      "lotNumber": "490",
+      "contentHash": "0x205a766ebf9bfade10b2d58ff98e626e6eb558f658593878944712de7bd1be51",
+      "gveCode": "GVE-205a766e",
+      "tokenId": "762355",
+      "txHash": "0xfd8945fe2ef3085316e8e7bdd337e19d35af84c1d28526b1526f6a4e4589bf97",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-205a766e/coa-205a766ebf9bfade.svg"
+    },
+    {
+      "identifier": "BAG-181",
+      "serial": 181,
+      "lotNumber": "490",
+      "contentHash": "0xd084792eda68e27e7623850f1732d9f964e72b2bfe9d561f890dfd8fd2635912",
+      "gveCode": "GVE-d084792e",
+      "tokenId": "762356",
+      "txHash": "0x3e77b158851ee3a7fb0de724efa4992f5144ada28e5824842b050df07ec8c630",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d084792e/coa-d084792eda68e27e.svg"
+    },
+    {
+      "identifier": "BAG-182",
+      "serial": 182,
+      "lotNumber": "490",
+      "contentHash": "0xf207cb75086475014427f72ccf7b3ebeae89a27d1899d4c0ad8922e31599c496",
+      "gveCode": "GVE-f207cb75",
+      "tokenId": "762357",
+      "txHash": "0x8442e568220da8ecb72f6376cdbff1b96e4c8bcd86e1974286a14f8217967d0b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f207cb75/coa-f207cb7508647501.svg"
+    },
+    {
+      "identifier": "BAG-183",
+      "serial": 183,
+      "lotNumber": "490",
+      "contentHash": "0xdea7dbd875d2a906d165c425a6654173a44f3473ae47808e65158144822a62fd",
+      "gveCode": "GVE-dea7dbd8",
+      "tokenId": "762358",
+      "txHash": "0x721c030c57a5f0e7e090b29ed9ba09cd13250e3f9e6152b80a6dc7010ce6b0c9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dea7dbd8/coa-dea7dbd875d2a906.svg"
+    },
+    {
+      "identifier": "BAG-184",
+      "serial": 184,
+      "lotNumber": "490",
+      "contentHash": "0x8c62df35143e3331e45ddc7a64a408c1ee0fb334b686ccc6372e15405360205c",
+      "gveCode": "GVE-8c62df35",
+      "tokenId": "762359",
+      "txHash": "0x150f01bf46ad898ade017d8c286fa54b399eaf97cfbc4e0b934985ebfbd6a5c5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8c62df35/coa-8c62df35143e3331.svg"
+    },
+    {
+      "identifier": "BAG-185",
+      "serial": 185,
+      "lotNumber": "490",
+      "contentHash": "0xc3f74c2a81ae70c331f00db864437abc9d747f3292410afc275e221ac84cf432",
+      "gveCode": "GVE-c3f74c2a",
+      "tokenId": "762360",
+      "txHash": "0x6e94ed7b99ff95eb162ee32165c2a341eb413dbac23fbb99e582c6acfef30125",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c3f74c2a/coa-c3f74c2a81ae70c3.svg"
+    },
+    {
+      "identifier": "BAG-186",
+      "serial": 186,
+      "lotNumber": "490",
+      "contentHash": "0x8885ee3c0fe6b8f236b921fee2e5aff15230e874aa8c6604abf7e15c25d6cbf5",
+      "gveCode": "GVE-8885ee3c",
+      "tokenId": "762361",
+      "txHash": "0xb221b1f932da658d6bff66ff32cdcb4595ff01d6c2089b0db17cc5ade069ddac",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8885ee3c/coa-8885ee3c0fe6b8f2.svg"
+    },
+    {
+      "identifier": "BAG-187",
+      "serial": 187,
+      "lotNumber": "490",
+      "contentHash": "0x659ac487fd552135d0a98dc20ad163e704dae0584d4610a01ef440a361f1f12c",
+      "gveCode": "GVE-659ac487",
+      "tokenId": "762362",
+      "txHash": "0x92967843e8d99ba39d8273133e574137b196da5ce7e84ebbe4efb16c35c66867",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-659ac487/coa-659ac487fd552135.svg"
+    },
+    {
+      "identifier": "BAG-188",
+      "serial": 188,
+      "lotNumber": "490",
+      "contentHash": "0x02b586781a4bde174719abe97062a6895296ee495f2409798945f27c1b513828",
+      "gveCode": "GVE-02b58678",
+      "tokenId": "762363",
+      "txHash": "0x548c5201a54fc2e456adbec674f57f5f48fdd1ac7d8a837313a3d5fb3b951a0f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-02b58678/coa-02b586781a4bde17.svg"
+    },
+    {
+      "identifier": "BAG-189",
+      "serial": 189,
+      "lotNumber": "490",
+      "contentHash": "0x2fafea7d60ce57af2a9406fc9039732442af644f3e8b8d24a41bcf8cc925ee70",
+      "gveCode": "GVE-2fafea7d",
+      "tokenId": "762364",
+      "txHash": "0x1fb2877beec6a6ccb38d1bf567b6bb3573bae41dbeacd58b6f3fcb73da5c8666",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2fafea7d/coa-2fafea7d60ce57af.svg"
+    },
+    {
+      "identifier": "BAG-190",
+      "serial": 190,
+      "lotNumber": "490",
+      "contentHash": "0x6d22430010bfd916e34584ad8b60293844668754d109d6680c0d3369849c9c78",
+      "gveCode": "GVE-6d224300",
+      "tokenId": "762365",
+      "txHash": "0x083fc44bab1b4078028e37bb8023893afe90cfade8b29d8bf4471b6f818503ff",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6d224300/coa-6d22430010bfd916.svg"
+    },
+    {
+      "identifier": "BAG-191",
+      "serial": 191,
+      "lotNumber": "490",
+      "contentHash": "0x1f36b5087a04e3c1d853142fcef918dba1f80c2998fbe013fd6a96d452be0e0d",
+      "gveCode": "GVE-1f36b508",
+      "tokenId": "762366",
+      "txHash": "0xc2079b28992fbb9b9882c0cf255860f954aae35384cf1cce335bd0eb6aa751da",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1f36b508/coa-1f36b5087a04e3c1.svg"
+    },
+    {
+      "identifier": "BAG-192",
+      "serial": 192,
+      "lotNumber": "490",
+      "contentHash": "0xcc585e06cfb39412dae3eb462544cca2973bcda812fac33510891b7fbe560c6a",
+      "gveCode": "GVE-cc585e06",
+      "tokenId": "762367",
+      "txHash": "0x5e2b889e99dba30c8de2967cc1e3354c9e7eca421d6bb2457c4c0c9fe88971bb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cc585e06/coa-cc585e06cfb39412.svg"
+    },
+    {
+      "identifier": "BAG-193",
+      "serial": 193,
+      "lotNumber": "490",
+      "contentHash": "0x88aa6660e5f60bcbe9c8ed1758267d126cc0f36ea8a5288b37b946b4c3d78942",
+      "gveCode": "GVE-88aa6660",
+      "tokenId": "762368",
+      "txHash": "0xaa49ef3cd29ea19ec713d04f1db134dbfed9e190c7e89f263f36fcba07dceac3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-88aa6660/coa-88aa6660e5f60bcb.svg"
+    },
+    {
+      "identifier": "BAG-194",
+      "serial": 194,
+      "lotNumber": "490",
+      "contentHash": "0x282db8b5f0a773ac3a1278652b0a7e8f25007e775ec3d8efff80a269328319df",
+      "gveCode": "GVE-282db8b5",
+      "tokenId": "762369",
+      "txHash": "0x1a6a14208933244f37310e01887cf88bcf8a594b48014b3e5b5717dbf0ecbadb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-282db8b5/coa-282db8b5f0a773ac.svg"
+    },
+    {
+      "identifier": "BAG-195",
+      "serial": 195,
+      "lotNumber": "490",
+      "contentHash": "0xe592ecbdb1f4e260c2c4e72b5d189439f092c1e6c7afac0d7f4756debe1d8eca",
+      "gveCode": "GVE-e592ecbd",
+      "tokenId": "762370",
+      "txHash": "0x982ad013749906907528426b8d3cc97842f500b72278a5b49d20e7714886c354",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e592ecbd/coa-e592ecbdb1f4e260.svg"
+    },
+    {
+      "identifier": "BAG-196",
+      "serial": 196,
+      "lotNumber": "490",
+      "contentHash": "0x30f6cd2e9373664def711b2197a58492aac424b4e5be68f4e928bcb067abbe00",
+      "gveCode": "GVE-30f6cd2e",
+      "tokenId": "762371",
+      "txHash": "0xe191246d52e327284497800343709edfd281a3357e1aa35df74ddf1c89f5af50",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-30f6cd2e/coa-30f6cd2e9373664d.svg"
+    },
+    {
+      "identifier": "BAG-197",
+      "serial": 197,
+      "lotNumber": "490",
+      "contentHash": "0xbb807fd1b5d4cd7febbf0ab971626f17de59d546ed6c0ad7c03a6e63c2094c01",
+      "gveCode": "GVE-bb807fd1",
+      "tokenId": "762372",
+      "txHash": "0x0d273173654a2d18bf4ebb2f1fbdd7f15e6ac038c2d8a1d0428e0912d0120a24",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-bb807fd1/coa-bb807fd1b5d4cd7f.svg"
+    },
+    {
+      "identifier": "BAG-198",
+      "serial": 198,
+      "lotNumber": "490",
+      "contentHash": "0x9d7f6afa2fbfc11974a49d5a2764989a1975e44f23cedfcc91f540db765ab3b2",
+      "gveCode": "GVE-9d7f6afa",
+      "tokenId": "762373",
+      "txHash": "0x187de4f30dfe9bc9472fa8b402df4922bc8e3b86ae6485ff071340c1e6394cc7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9d7f6afa/coa-9d7f6afa2fbfc119.svg"
+    },
+    {
+      "identifier": "BAG-199",
+      "serial": 199,
+      "lotNumber": "490",
+      "contentHash": "0xa2846c3f9411d9e4ec36254f784770e3a8ab984c8dcabf6c70f217be82441d51",
+      "gveCode": "GVE-a2846c3f",
+      "tokenId": "762374",
+      "txHash": "0x8faa783ea823e580fceecc07f82af3c0e364d8cbb8680fe64b4912bfed033793",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a2846c3f/coa-a2846c3f9411d9e4.svg"
+    },
+    {
+      "identifier": "BAG-200",
+      "serial": 200,
+      "lotNumber": "490",
+      "contentHash": "0xfc6cfb268754a2135d6d84947a707f5f8b333eb815fb6c0847038b09b2fd0410",
+      "gveCode": "GVE-fc6cfb26",
+      "tokenId": "762375",
+      "txHash": "0xb8092cfa4219a743ff30362ca4445e980cddf1f2cfbdd6965da65f87ffddf81f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fc6cfb26/coa-fc6cfb268754a213.svg"
+    },
+    {
+      "identifier": "BAG-201",
+      "serial": 201,
+      "lotNumber": "491",
+      "contentHash": "0xf35c68ad7551d0487b85ca1f41eb7d9c97dbb2d398e270c5cf1dcec03b5cc2e5",
+      "gveCode": "GVE-f35c68ad",
+      "tokenId": "762376",
+      "txHash": "0xbd647ca1e4355c72161a4cccf0135cb3892b2ee8882c6e8d2d512777c96e1784",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f35c68ad/coa-f35c68ad7551d048.svg"
+    },
+    {
+      "identifier": "BAG-202",
+      "serial": 202,
+      "lotNumber": "491",
+      "contentHash": "0xcaa29249e9b89a85fec1cdfcf67d549ff5712ae71f84308dcbb41e67b6dd47fa",
+      "gveCode": "GVE-caa29249",
+      "tokenId": "762377",
+      "txHash": "0xcf5779ae37ae327bb9ad91091650201a185a05bfdeea72c000307d04cbd1a9b8",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-caa29249/coa-caa29249e9b89a85.svg"
+    },
+    {
+      "identifier": "BAG-203",
+      "serial": 203,
+      "lotNumber": "491",
+      "contentHash": "0x323875679ad04395d0dc57834cc9add9d6c2e28d73483f8714c27ee4ab94f9a8",
+      "gveCode": "GVE-32387567",
+      "tokenId": "762378",
+      "txHash": "0x3ac7e5690ffbbc7d903eca5343c7e5b77616aeabf8e33aa723f2962a8460502e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-32387567/coa-323875679ad04395.svg"
+    },
+    {
+      "identifier": "BAG-204",
+      "serial": 204,
+      "lotNumber": "491",
+      "contentHash": "0x021097b64a686c0af335fd29c6b34749ebad210cfdbac33585831285664ce9a3",
+      "gveCode": "GVE-021097b6",
+      "tokenId": "762379",
+      "txHash": "0x994b54f3dcc249a2d976086354bc27388ec966fb7ef0c8fb46c734a2f458568a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-021097b6/coa-021097b64a686c0a.svg"
+    },
+    {
+      "identifier": "BAG-205",
+      "serial": 205,
+      "lotNumber": "491",
+      "contentHash": "0x2b77afa47a5d4800f04c77584c20597504597e54f12baa267b41fc51aae01f67",
+      "gveCode": "GVE-2b77afa4",
+      "tokenId": "762380",
+      "txHash": "0x08735dc3b847b8610537c5e921e145cd969eee114b16fdaba08a226d98788224",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2b77afa4/coa-2b77afa47a5d4800.svg"
+    },
+    {
+      "identifier": "BAG-206",
+      "serial": 206,
+      "lotNumber": "491",
+      "contentHash": "0x20efd8ad872ef214d59808ff876199321ddeacc9615add0ab08a060fce03859e",
+      "gveCode": "GVE-20efd8ad",
+      "tokenId": "762381",
+      "txHash": "0x979a92d0bba800a674cc9d593bb2148c4d3ff8a7f77e2182aae7e8c6109fbf89",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-20efd8ad/coa-20efd8ad872ef214.svg"
+    },
+    {
+      "identifier": "BAG-207",
+      "serial": 207,
+      "lotNumber": "491",
+      "contentHash": "0xb6ccef40387c7f6378df926d8f6f65c014dec755585ffaeaae84b190c7233d2e",
+      "gveCode": "GVE-b6ccef40",
+      "tokenId": "762382",
+      "txHash": "0x4ecd04bd409027f7e2657e4205cc7c2f838f3c13233c0a0900156668bbb54975",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b6ccef40/coa-b6ccef40387c7f63.svg"
+    },
+    {
+      "identifier": "BAG-208",
+      "serial": 208,
+      "lotNumber": "491",
+      "contentHash": "0x897e25a4c630b1849fb90b0b39e0fbf1c5287e95452ea470febc0d1c838a6582",
+      "gveCode": "GVE-897e25a4",
+      "tokenId": "762383",
+      "txHash": "0xc1699ce40c6ed9ebe8e0e033e7ab47714053236af80cf570caf2d6e2bc5de795",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-897e25a4/coa-897e25a4c630b184.svg"
+    },
+    {
+      "identifier": "BAG-209",
+      "serial": 209,
+      "lotNumber": "491",
+      "contentHash": "0x1d0828961f3ed88b35ad684dc8fe5d6e3eba8e21e19776486b1b5b97bbdc7595",
+      "gveCode": "GVE-1d082896",
+      "tokenId": "762384",
+      "txHash": "0x0ef072157079ef2452210269d67f2f719ee1f0b2b70dd3219dc7788015e41bc0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1d082896/coa-1d0828961f3ed88b.svg"
+    },
+    {
+      "identifier": "BAG-210",
+      "serial": 210,
+      "lotNumber": "491",
+      "contentHash": "0x375580e25836b4a2bb3b9b9b91b8314e9fdfa09829da22b1ce92046b92454d5c",
+      "gveCode": "GVE-375580e2",
+      "tokenId": "762385",
+      "txHash": "0xb0e5583567243d7c57997788d27c93c6539b21713898af6de1080329422cb800",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-375580e2/coa-375580e25836b4a2.svg"
+    },
+    {
+      "identifier": "BAG-211",
+      "serial": 211,
+      "lotNumber": "491",
+      "contentHash": "0xeca36cda92a0ca9c04e88f82d20277371536e795bd702e1e55558e7eacb2ee3b",
+      "gveCode": "GVE-eca36cda",
+      "tokenId": "762386",
+      "txHash": "0x3bd3d16384c18ce077e6b35121f02a86c7ee0d8c20e3cb508e506a3eabff793d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-eca36cda/coa-eca36cda92a0ca9c.svg"
+    },
+    {
+      "identifier": "BAG-212",
+      "serial": 212,
+      "lotNumber": "491",
+      "contentHash": "0x36a390b9af36444241aa06d44f706ca6eb47c2165da24d793eb9ae1660891ebf",
+      "gveCode": "GVE-36a390b9",
+      "tokenId": "762387",
+      "txHash": "0xeba26246968d84f0f733099dab11d9e7f6fb1898234d8d180274fece17341713",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-36a390b9/coa-36a390b9af364442.svg"
+    },
+    {
+      "identifier": "BAG-213",
+      "serial": 213,
+      "lotNumber": "491",
+      "contentHash": "0xc36b98ffaef11475b91a4deb3711ebb803106ee33b1d9f7f9992d7be0c0a1168",
+      "gveCode": "GVE-c36b98ff",
+      "tokenId": "762388",
+      "txHash": "0x96f558643570d590eaff9a378b6f5d6a3ec2fba43dfc0922191400c5d8e20ead",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c36b98ff/coa-c36b98ffaef11475.svg"
+    },
+    {
+      "identifier": "BAG-214",
+      "serial": 214,
+      "lotNumber": "491",
+      "contentHash": "0xfa86e8c26ab39d63985586d29b477a5d3c3c6b0f6ab60840b51089313abf8bf8",
+      "gveCode": "GVE-fa86e8c2",
+      "tokenId": "762389",
+      "txHash": "0x17066b929633d9da7fb93de91f48c11b34baf682c42e025678e15948859c96e7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fa86e8c2/coa-fa86e8c26ab39d63.svg"
+    },
+    {
+      "identifier": "BAG-215",
+      "serial": 215,
+      "lotNumber": "491",
+      "contentHash": "0x5871caf92fee74261b18da5e08d7b959198e2839b3577689a16ff5e46849ea7d",
+      "gveCode": "GVE-5871caf9",
+      "tokenId": "762390",
+      "txHash": "0x7d4efa89ec5bb8d58f01dd798e286afb83f59a187913a8b1d9d5154ae2c2fffe",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5871caf9/coa-5871caf92fee7426.svg"
+    },
+    {
+      "identifier": "BAG-216",
+      "serial": 216,
+      "lotNumber": "491",
+      "contentHash": "0x337ad8becbf5c6878079c543947d7f6f20114d3ca65d845c6b9fd0c43510e829",
+      "gveCode": "GVE-337ad8be",
+      "tokenId": "762391",
+      "txHash": "0x66201bc4ef4badd6d391191b648f80bab3c396e34bbca0ae5b17786c237d5d3b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-337ad8be/coa-337ad8becbf5c687.svg"
+    },
+    {
+      "identifier": "BAG-217",
+      "serial": 217,
+      "lotNumber": "491",
+      "contentHash": "0x661a2cd245633ba52c832bec93ffc1b571bb059da0d8c891a8cdec7ecbc04b57",
+      "gveCode": "GVE-661a2cd2",
+      "tokenId": "762392",
+      "txHash": "0x72881138a5e346fdd675105ced546a887dc3c3e2643cd064a203ca4d77f81a82",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-661a2cd2/coa-661a2cd245633ba5.svg"
+    },
+    {
+      "identifier": "BAG-218",
+      "serial": 218,
+      "lotNumber": "491",
+      "contentHash": "0xa0962e07818b811ac698417e180f75215a1a72e824409a9d296477a52748e5c9",
+      "gveCode": "GVE-a0962e07",
+      "tokenId": "762393",
+      "txHash": "0xd2019ed09ff8c70b2d2a5bc1f74f6cf9ace20f79501351a6585e5002f19232e2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a0962e07/coa-a0962e07818b811a.svg"
+    },
+    {
+      "identifier": "BAG-219",
+      "serial": 219,
+      "lotNumber": "491",
+      "contentHash": "0x2ba6ffb636e10ac81c3984cc6fe4db44f51c04ec524c65dce7c57c716498d7b6",
+      "gveCode": "GVE-2ba6ffb6",
+      "tokenId": "762394",
+      "txHash": "0x19fe13f9cb45f34d5d02d0a0a656631b0e140893f4514e43c8889fea47e9ca68",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2ba6ffb6/coa-2ba6ffb636e10ac8.svg"
+    },
+    {
+      "identifier": "BAG-220",
+      "serial": 220,
+      "lotNumber": "491",
+      "contentHash": "0xf9327648b1068e037d0f4b42c68e973bc580c28108931342b4edcff0f1ec996a",
+      "gveCode": "GVE-f9327648",
+      "tokenId": "762395",
+      "txHash": "0xb2816d7d18e22917b40ae1d7fb324b6040268c364aea245cb9ffba86f2864c28",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f9327648/coa-f9327648b1068e03.svg"
+    },
+    {
+      "identifier": "BAG-221",
+      "serial": 221,
+      "lotNumber": "491",
+      "contentHash": "0x0fe69b60ac8bd35793533ddc9d4dd6a69699be09dd464826d5a3550c5bf8117d",
+      "gveCode": "GVE-0fe69b60",
+      "tokenId": "762396",
+      "txHash": "0x5432dfb11921682f9c04587a28998b0dd31ff60286f08b4751121e0176e00c1b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0fe69b60/coa-0fe69b60ac8bd357.svg"
+    },
+    {
+      "identifier": "BAG-222",
+      "serial": 222,
+      "lotNumber": "491",
+      "contentHash": "0x16b9eb43bb0335144ee5ba173cb1a9cb26db37c99d0ef055cb04f1dd33c1551e",
+      "gveCode": "GVE-16b9eb43",
+      "tokenId": "762397",
+      "txHash": "0x6ba810059544dcc9eb873fffe620f2105a6da752df4bad5ddd3839fadfd280dc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-16b9eb43/coa-16b9eb43bb033514.svg"
+    },
+    {
+      "identifier": "BAG-223",
+      "serial": 223,
+      "lotNumber": "491",
+      "contentHash": "0x567e4bac71c61a7afdb541bf69820a64c89032a5b57e95dd0f43cba1f10f21da",
+      "gveCode": "GVE-567e4bac",
+      "tokenId": "762398",
+      "txHash": "0xd643ce86bd8c3e53bbdf80e1b24775691d88f02cfb8b811182eadeb16016e343",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-567e4bac/coa-567e4bac71c61a7a.svg"
+    },
+    {
+      "identifier": "BAG-224",
+      "serial": 224,
+      "lotNumber": "491",
+      "contentHash": "0xf5d9ac65862617707a17347a1c1733503c193f77884f67c46197feb1106d97f8",
+      "gveCode": "GVE-f5d9ac65",
+      "tokenId": "762399",
+      "txHash": "0xcaaf50e1f1910b3219340d12fc1d4b273d9cc8b6282273226bb26fad47c2aadb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f5d9ac65/coa-f5d9ac6586261770.svg"
+    },
+    {
+      "identifier": "BAG-225",
+      "serial": 225,
+      "lotNumber": "491",
+      "contentHash": "0x4035c682010e90fdb777648b7938cbe1621d311512bbb57964d38587909db5f9",
+      "gveCode": "GVE-4035c682",
+      "tokenId": "762400",
+      "txHash": "0x3daa6a1b04486b30cd4b56d90739970460baa0dd47e92afb4daf13c21ad23285",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4035c682/coa-4035c682010e90fd.svg"
+    },
+    {
+      "identifier": "BAG-226",
+      "serial": 226,
+      "lotNumber": "491",
+      "contentHash": "0x809500078fceaebe64de38d7e6c56274a00ac290d19e9446a97838704410d0bb",
+      "gveCode": "GVE-80950007",
+      "tokenId": "762401",
+      "txHash": "0xa5717825c20cc8e4d6cc53b646cc46b42ac2dec7717110f6469aaa79ad14c151",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-80950007/coa-809500078fceaebe.svg"
+    },
+    {
+      "identifier": "BAG-227",
+      "serial": 227,
+      "lotNumber": "491",
+      "contentHash": "0x81628f72df53342d8cc3faa06cad6373eded8f350dacbb64d298353ef5035787",
+      "gveCode": "GVE-81628f72",
+      "tokenId": "762402",
+      "txHash": "0xe54deee1fae7282be9fab5a9aa8e455e7766a6d63ce85737b4d0509424f2fd62",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-81628f72/coa-81628f72df53342d.svg"
+    },
+    {
+      "identifier": "BAG-228",
+      "serial": 228,
+      "lotNumber": "491",
+      "contentHash": "0x3b7a538d87220b1caa824c68f31b8ed71b495c2b315ec516b41f2d24fe3dc1c9",
+      "gveCode": "GVE-3b7a538d",
+      "tokenId": "762403",
+      "txHash": "0x262cad396df11688a2fd60adb4c817bdddb81c97b5200b531a14d6db0beb1ca1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3b7a538d/coa-3b7a538d87220b1c.svg"
+    },
+    {
+      "identifier": "BAG-229",
+      "serial": 229,
+      "lotNumber": "491",
+      "contentHash": "0x830e42383532fcbcca711eabdde1a5f9319b00472ddb311c162c4e9dcdd58318",
+      "gveCode": "GVE-830e4238",
+      "tokenId": "762404",
+      "txHash": "0x2f54f64747d626b9bab1e8e52282eac497f89b4b7ac1375d52dc09f1a094c902",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-830e4238/coa-830e42383532fcbc.svg"
+    },
+    {
+      "identifier": "BAG-230",
+      "serial": 230,
+      "lotNumber": "491",
+      "contentHash": "0x5b71bb7de812489288f6435001b2c6d3d4f42bbdbd48c43b4edbc7f9c472e079",
+      "gveCode": "GVE-5b71bb7d",
+      "tokenId": "762405",
+      "txHash": "0x01f5a7124960837cdaa016cf3cf96510224f876ebb12c1596fcc1a62088430e5",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5b71bb7d/coa-5b71bb7de8124892.svg"
+    },
+    {
+      "identifier": "BAG-231",
+      "serial": 231,
+      "lotNumber": "491",
+      "contentHash": "0x4a878a9cf5e5b020522010ce3aa44303dc15b966c63b26ba015820d441910faf",
+      "gveCode": "GVE-4a878a9c",
+      "tokenId": "762406",
+      "txHash": "0xdf3d9c8b91e7ca477e320515f67faa93480f85e190bea222cab211436fb6c94d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4a878a9c/coa-4a878a9cf5e5b020.svg"
+    },
+    {
+      "identifier": "BAG-232",
+      "serial": 232,
+      "lotNumber": "491",
+      "contentHash": "0x8e00005965aec76a742ab144acb6914b5bf7f3b5253bcd4a590fe430184f87cd",
+      "gveCode": "GVE-8e000059",
+      "tokenId": "762407",
+      "txHash": "0x2d6a50a4374b6b88d9eab526d73afe5703fb5fcf9731419a63c9a7fc1ee746fb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8e000059/coa-8e00005965aec76a.svg"
+    },
+    {
+      "identifier": "BAG-233",
+      "serial": 233,
+      "lotNumber": "491",
+      "contentHash": "0x0353a6a7abfe5b7c911dab44d17b6f89422b7c48a58e0b9827ee7e47ea79fcb5",
+      "gveCode": "GVE-0353a6a7",
+      "tokenId": "762408",
+      "txHash": "0x505ca1892d9988d5e0a2d651f8cd9407cace0290e7544f7a37b6673b81fdf085",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0353a6a7/coa-0353a6a7abfe5b7c.svg"
+    },
+    {
+      "identifier": "BAG-234",
+      "serial": 234,
+      "lotNumber": "491",
+      "contentHash": "0xe7b41897e303f0cceb21c643c0b59a8531c5fc9fb7f8b17e860d6bb8c140df14",
+      "gveCode": "GVE-e7b41897",
+      "tokenId": "762409",
+      "txHash": "0x751977c8dbf343f72a4911736fdd45793dc7fa94cff21982e5070acdd6d24674",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e7b41897/coa-e7b41897e303f0cc.svg"
+    },
+    {
+      "identifier": "BAG-235",
+      "serial": 235,
+      "lotNumber": "491",
+      "contentHash": "0x7330fcc132322e8f59aea4e1b48c999a7700482f7483077d8a3cc09171193228",
+      "gveCode": "GVE-7330fcc1",
+      "tokenId": "762410",
+      "txHash": "0xb638dce29dba07272ca537b06d74aea7859dad1df2f9c48f49a9e4e850f44d89",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-7330fcc1/coa-7330fcc132322e8f.svg"
+    },
+    {
+      "identifier": "BAG-236",
+      "serial": 236,
+      "lotNumber": "491",
+      "contentHash": "0x3350bd3ece79ff66290e40e3908d69e6eab9d7952f09dd7740d3ca068073e466",
+      "gveCode": "GVE-3350bd3e",
+      "tokenId": "762411",
+      "txHash": "0x1027f9da6ec94b9d63e03179f314d658a0f3284a7516150cffd96a875c10c8c0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3350bd3e/coa-3350bd3ece79ff66.svg"
+    },
+    {
+      "identifier": "BAG-237",
+      "serial": 237,
+      "lotNumber": "491",
+      "contentHash": "0xfe1744a127c85954e4140fcc12f6010e8e8345f2e6245abdf4573f22da522c0c",
+      "gveCode": "GVE-fe1744a1",
+      "tokenId": "762412",
+      "txHash": "0x98e10ee8f578849fdbe831069ac8fb3bb5aa1fe60614b3453b51aeb3d3e25590",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fe1744a1/coa-fe1744a127c85954.svg"
+    },
+    {
+      "identifier": "BAG-238",
+      "serial": 238,
+      "lotNumber": "491",
+      "contentHash": "0xd8f49a5356520740dbfcf08116874865bc6cc9d71e278fc7e18b25d114985789",
+      "gveCode": "GVE-d8f49a53",
+      "tokenId": "762413",
+      "txHash": "0xbf2c78a5f1044fc35f97ca201faf8f85831bb50118ae3de464d45f50d69aea27",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d8f49a53/coa-d8f49a5356520740.svg"
+    },
+    {
+      "identifier": "BAG-239",
+      "serial": 239,
+      "lotNumber": "491",
+      "contentHash": "0xfdc9b2dcb2e7f2b5cd517f41877f02b61719984e81d863fd0f51a87c6e41a445",
+      "gveCode": "GVE-fdc9b2dc",
+      "tokenId": "762414",
+      "txHash": "0xa6bbbbe53770ceaf4c3eeaa1bd4187f9d03c303c45da36a48a4964b6eebd5e62",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fdc9b2dc/coa-fdc9b2dcb2e7f2b5.svg"
+    },
+    {
+      "identifier": "BAG-240",
+      "serial": 240,
+      "lotNumber": "491",
+      "contentHash": "0x732b87e1edc5d7b9dcaa9d95cc9a837e5383063da745575c83290db7f5f9e596",
+      "gveCode": "GVE-732b87e1",
+      "tokenId": "762415",
+      "txHash": "0x517051299fede760b1a485f74cb26679ef88c1de31057e2dd3624b056f925e92",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-732b87e1/coa-732b87e1edc5d7b9.svg"
+    },
+    {
+      "identifier": "BAG-241",
+      "serial": 241,
+      "lotNumber": "491",
+      "contentHash": "0x166580dd0d5c26f44a9a29f08086d4c2e5cbb151572cbf57b40c453f0b204d1d",
+      "gveCode": "GVE-166580dd",
+      "tokenId": "762416",
+      "txHash": "0x843d6b4d9d3e007080108c40669d82292c7ea0347951bfe69922d8f60bcee304",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-166580dd/coa-166580dd0d5c26f4.svg"
+    },
+    {
+      "identifier": "BAG-242",
+      "serial": 242,
+      "lotNumber": "491",
+      "contentHash": "0x2312c462129191b78d1bee1dd113219c4f491f17b2384fecbe85681414940e59",
+      "gveCode": "GVE-2312c462",
+      "tokenId": "762417",
+      "txHash": "0xfb3454027282d6e0448733d8e15b4ccebd664e01db55c3c676b85aa42a6d6dfc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2312c462/coa-2312c462129191b7.svg"
+    },
+    {
+      "identifier": "BAG-243",
+      "serial": 243,
+      "lotNumber": "491",
+      "contentHash": "0xe929415202755806c19c1aa3cf8167dfc82bd3105572793e563bf9f5f097ca51",
+      "gveCode": "GVE-e9294152",
+      "tokenId": "762418",
+      "txHash": "0xd213eb03b4ec3789b2bbad1e7916a39bb788a7b6ff6176d0043897ba0488db21",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e9294152/coa-e929415202755806.svg"
+    },
+    {
+      "identifier": "BAG-244",
+      "serial": 244,
+      "lotNumber": "491",
+      "contentHash": "0x96fbc5b3433cb53ef8f0b09534045326a1b3d9bb0537b614ce00c9c1f70cdda5",
+      "gveCode": "GVE-96fbc5b3",
+      "tokenId": "762419",
+      "txHash": "0xce45ad52a24f402cb8d0e55c53dd1040c8451dbb0799fac0aba92b948ef0fb8f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-96fbc5b3/coa-96fbc5b3433cb53e.svg"
+    },
+    {
+      "identifier": "BAG-245",
+      "serial": 245,
+      "lotNumber": "491",
+      "contentHash": "0x99d5eb5f498408980a7f91df7482e8b42ce11df03e002539b0fe6e497fd7335e",
+      "gveCode": "GVE-99d5eb5f",
+      "tokenId": "762420",
+      "txHash": "0x4a17a6a6e0573e1b6e35e67c1b1f194ee6764b891ec5af534988e1acf4c4d514",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-99d5eb5f/coa-99d5eb5f49840898.svg"
+    },
+    {
+      "identifier": "BAG-246",
+      "serial": 246,
+      "lotNumber": "491",
+      "contentHash": "0xe892374a5fb941a1c9e4c386c23a63db9e081fe44d25cc6ef4a4561f287a611d",
+      "gveCode": "GVE-e892374a",
+      "tokenId": "762421",
+      "txHash": "0xa3681879f61c354656dbd94e87ad7e2a153f0d008b9c0078f549a788a5c77026",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e892374a/coa-e892374a5fb941a1.svg"
+    },
+    {
+      "identifier": "BAG-247",
+      "serial": 247,
+      "lotNumber": "491",
+      "contentHash": "0x9d6e950153d09c6a3a67cf0ead206642816bb9d4509d601e8c26e944aec2eaec",
+      "gveCode": "GVE-9d6e9501",
+      "tokenId": "762422",
+      "txHash": "0x0d3ef67974a41ac01276872ae02d825515507dca75901a9e23d73f26c7cafd1e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9d6e9501/coa-9d6e950153d09c6a.svg"
+    },
+    {
+      "identifier": "BAG-248",
+      "serial": 248,
+      "lotNumber": "491",
+      "contentHash": "0x992aee228f3eabe1b94a600e338a74c9cbbb46929bc3afc9615b739a6ea6b96e",
+      "gveCode": "GVE-992aee22",
+      "tokenId": "762423",
+      "txHash": "0x8cd4acd16c9aa3771482f0b8b61175aaa000a77118df5b1e8e0042ab2676acde",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-992aee22/coa-992aee228f3eabe1.svg"
+    },
+    {
+      "identifier": "BAG-249",
+      "serial": 249,
+      "lotNumber": "491",
+      "contentHash": "0x0aa8e954b7f2eac29e5c0d4ecd06fb5862d4bb8cddaf2f07bcd5561c28651f7b",
+      "gveCode": "GVE-0aa8e954",
+      "tokenId": "762424",
+      "txHash": "0x6ac3c859d0b26a5de07e09982c1d9d6d9e1fdf5dc11d007685e2c82706424e3f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0aa8e954/coa-0aa8e954b7f2eac2.svg"
+    },
+    {
+      "identifier": "BAG-250",
+      "serial": 250,
+      "lotNumber": "491",
+      "contentHash": "0x94ed58e8cceeea574b267b546a9c83c97bf01002d0825cb6f4f6ab87a745b41e",
+      "gveCode": "GVE-94ed58e8",
+      "tokenId": "762425",
+      "txHash": "0x14bb42410d955b5682de8164cf85b0af5c0179831656160643284860fcc4cca7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-94ed58e8/coa-94ed58e8cceeea57.svg"
+    },
+    {
+      "identifier": "BAG-251",
+      "serial": 251,
+      "lotNumber": "491",
+      "contentHash": "0x45ca98daf4bbd62864597303b70845facfd47db2efc34fdc61327f0a11dc912b",
+      "gveCode": "GVE-45ca98da",
+      "tokenId": "762426",
+      "txHash": "0x96ce4707e731f1af0a6f70e826b7abb2a796f76b608782967f4fa167f94a0c18",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-45ca98da/coa-45ca98daf4bbd628.svg"
+    },
+    {
+      "identifier": "BAG-252",
+      "serial": 252,
+      "lotNumber": "491",
+      "contentHash": "0x6bda452520ddcbb71f7381a483b7a39f4c65b6bf42d3d3325a7238b25614540c",
+      "gveCode": "GVE-6bda4525",
+      "tokenId": "762427",
+      "txHash": "0x505261a343a55e93590f100590af0aa087cf98d6b78c0b1504f79b9ae2eb7781",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6bda4525/coa-6bda452520ddcbb7.svg"
+    },
+    {
+      "identifier": "BAG-253",
+      "serial": 253,
+      "lotNumber": "491",
+      "contentHash": "0xeeb310691f169ce1d6574af927043e1ea6ea2a60b6b6c429f8b9af113e46b4c4",
+      "gveCode": "GVE-eeb31069",
+      "tokenId": "762428",
+      "txHash": "0xef7f4d558a7633dd9d03dfff81dbec83ea84662d74f29140742e3998132f3ed9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-eeb31069/coa-eeb310691f169ce1.svg"
+    },
+    {
+      "identifier": "BAG-254",
+      "serial": 254,
+      "lotNumber": "491",
+      "contentHash": "0x098a026beac274345fb64f3a654bb35671256a7f4b95f98362f482bc7d64f9ad",
+      "gveCode": "GVE-098a026b",
+      "tokenId": "762429",
+      "txHash": "0xd91a8fe56f1917b916498f81a45b84691414ae764b320449753d98856ccdbab6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-098a026b/coa-098a026beac27434.svg"
+    },
+    {
+      "identifier": "BAG-255",
+      "serial": 255,
+      "lotNumber": "491",
+      "contentHash": "0xbaf1f61d017633edb48ff6ffbe161d1a2db5bfe9ddb504c2dcedb34dd77f5c11",
+      "gveCode": "GVE-baf1f61d",
+      "tokenId": "762430",
+      "txHash": "0xc7973156ca100f4b835dec4301d4ac66c384250ebc7c66811a8b031d8c842d8e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-baf1f61d/coa-baf1f61d017633ed.svg"
+    },
+    {
+      "identifier": "BAG-256",
+      "serial": 256,
+      "lotNumber": "491",
+      "contentHash": "0x3e9bbeb94539c0492be75f376d4aa19a45a97f5b79256b85b1b69dec39d5c3fa",
+      "gveCode": "GVE-3e9bbeb9",
+      "tokenId": "762431",
+      "txHash": "0x08bcd8f644b60e79037996917d9de8a8e7807cf499dcbf892b69e64a369750e6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3e9bbeb9/coa-3e9bbeb94539c049.svg"
+    },
+    {
+      "identifier": "BAG-257",
+      "serial": 257,
+      "lotNumber": "491",
+      "contentHash": "0x60327d6edd083e17f7b00eda3109045b326caeb4917ddec38ada0a37435f6ec0",
+      "gveCode": "GVE-60327d6e",
+      "tokenId": "762432",
+      "txHash": "0x2c5834885cd081de319bd83a670d57678bee9bf818433bab05e580727f8a5b91",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-60327d6e/coa-60327d6edd083e17.svg"
+    },
+    {
+      "identifier": "BAG-258",
+      "serial": 258,
+      "lotNumber": "491",
+      "contentHash": "0x4e641cf32450858e90cfbd39b432a8a0f8c045cdeab05a19a8cfa70ff295d906",
+      "gveCode": "GVE-4e641cf3",
+      "tokenId": "762433",
+      "txHash": "0x254fa05468d26747a4798777639588ed31ed11e5b46dd3df2063d444912ba025",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e641cf3/coa-4e641cf32450858e.svg"
+    },
+    {
+      "identifier": "BAG-259",
+      "serial": 259,
+      "lotNumber": "491",
+      "contentHash": "0xad02b67b9da78c285a277ee26710098078695c6085906bb0ea5c19fecbc9fc00",
+      "gveCode": "GVE-ad02b67b",
+      "tokenId": "762434",
+      "txHash": "0x570daa2f4f80acc708a7ffe72719e497240088997330a2d5ae19d8521b598ab9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ad02b67b/coa-ad02b67b9da78c28.svg"
+    },
+    {
+      "identifier": "BAG-260",
+      "serial": 260,
+      "lotNumber": "491",
+      "contentHash": "0x94af722c08099e0f67a52a9684df1101a7caba278e07dfc6d221e50a19322ddd",
+      "gveCode": "GVE-94af722c",
+      "tokenId": "762435",
+      "txHash": "0x88ece6f1d7ed8f9fcf940fd35d699bfb014c0d791e708fb589d194d499868d5a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-94af722c/coa-94af722c08099e0f.svg"
+    },
+    {
+      "identifier": "BAG-261",
+      "serial": 261,
+      "lotNumber": "491",
+      "contentHash": "0x0cb9ab6d5f09894122372114aeddefe053a2b6279545d3365561363bd355fa9a",
+      "gveCode": "GVE-0cb9ab6d",
+      "tokenId": "762436",
+      "txHash": "0xccd1a83b243f13e70824c658a0853c2ced4c73234eb0fecf7f6e65dd2ac248ec",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0cb9ab6d/coa-0cb9ab6d5f098941.svg"
+    },
+    {
+      "identifier": "BAG-262",
+      "serial": 262,
+      "lotNumber": "491",
+      "contentHash": "0x2cfc864ce4896737c37e1191078e94f20d7fe5f3035141518c0edeef42623c10",
+      "gveCode": "GVE-2cfc864c",
+      "tokenId": "762437",
+      "txHash": "0xde91c5c9135319fba74fbcaae668a5d6289ef65bd827714a4eebf65d01cd8f19",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2cfc864c/coa-2cfc864ce4896737.svg"
+    },
+    {
+      "identifier": "BAG-263",
+      "serial": 263,
+      "lotNumber": "491",
+      "contentHash": "0x5d8272f546471d42582f5f6e0743d754df72c8759bb2ca9d62ef36fbfaa5b650",
+      "gveCode": "GVE-5d8272f5",
+      "tokenId": "762438",
+      "txHash": "0x978c49332fdd7c925477df89d6bf5e428ec664e595dcdda99815cf058bda33c0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5d8272f5/coa-5d8272f546471d42.svg"
+    },
+    {
+      "identifier": "BAG-264",
+      "serial": 264,
+      "lotNumber": "491",
+      "contentHash": "0x4f96a0882dea77e69d55ba2ea87e114bf94b763f9e16980fd232ef00ac3ef732",
+      "gveCode": "GVE-4f96a088",
+      "tokenId": "762439",
+      "txHash": "0x3334d79ef3d35f6d8791180f21c8806cbb42b622901e117cba2a37cee347b7b2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4f96a088/coa-4f96a0882dea77e6.svg"
+    },
+    {
+      "identifier": "BAG-265",
+      "serial": 265,
+      "lotNumber": "491",
+      "contentHash": "0x3b8be16f6d1be559645e3b67fb23db4e4074a4bc9a6737ae201d5f853cf6bb7c",
+      "gveCode": "GVE-3b8be16f",
+      "tokenId": "762440",
+      "txHash": "0xe6944e6eef838200dc25d1d0324a1afc853683400d1291974b9a6dbb386d631f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3b8be16f/coa-3b8be16f6d1be559.svg"
+    },
+    {
+      "identifier": "BAG-266",
+      "serial": 266,
+      "lotNumber": "491",
+      "contentHash": "0x516e9b78428ba046962a837d80f47affca8c603a8fea006d85bb100ff47084dd",
+      "gveCode": "GVE-516e9b78",
+      "tokenId": "762441",
+      "txHash": "0x62772eb2eae6f0558be5ecbc08cd0e7f68c4ebf1f2c47c39e2227aa542010afd",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-516e9b78/coa-516e9b78428ba046.svg"
+    },
+    {
+      "identifier": "BAG-267",
+      "serial": 267,
+      "lotNumber": "491",
+      "contentHash": "0x59742e5fa111ec5b9d48cc507ac35bf8120e7c510d0914f345ae138e266784ee",
+      "gveCode": "GVE-59742e5f",
+      "tokenId": "762442",
+      "txHash": "0x9eabf2e15824010f1bfaa678087dd43ce3ac74a4dd8710b1cbad19b22322cb40",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-59742e5f/coa-59742e5fa111ec5b.svg"
+    },
+    {
+      "identifier": "BAG-268",
+      "serial": 268,
+      "lotNumber": "491",
+      "contentHash": "0x32030564e7cd9cdb6ece70cc566c04a51253b3aa2139a38c476b97af93ecf601",
+      "gveCode": "GVE-32030564",
+      "tokenId": "762443",
+      "txHash": "0x5a526ebf77b77d183ea2a188baeff3b347b3342c1462243e339b678ee13b9c30",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-32030564/coa-32030564e7cd9cdb.svg"
+    },
+    {
+      "identifier": "BAG-269",
+      "serial": 269,
+      "lotNumber": "491",
+      "contentHash": "0xf95df3ea24b4f9ef736729ba1aa93da1a961d74b98e39cdb8d4f88f1cca82103",
+      "gveCode": "GVE-f95df3ea",
+      "tokenId": "762444",
+      "txHash": "0x3a1cc71e40a1a8ce6cab233d626c934a544ce258fc85bf48c5576aee5096130e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f95df3ea/coa-f95df3ea24b4f9ef.svg"
+    },
+    {
+      "identifier": "BAG-270",
+      "serial": 270,
+      "lotNumber": "491",
+      "contentHash": "0x48d37e29760b5329222fb6816e55dc3a638292d2f5f964157d357cf2c47a69bf",
+      "gveCode": "GVE-48d37e29",
+      "tokenId": "762445",
+      "txHash": "0x168597191d2794f1eef9f3194052e67ed3477b8a368e9af9eaac676d415fcd0d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-48d37e29/coa-48d37e29760b5329.svg"
+    },
+    {
+      "identifier": "BAG-271",
+      "serial": 271,
+      "lotNumber": "491",
+      "contentHash": "0x0103792698bd0ae302dd07704334bfa084290dc4ae586698295c9010bea81d5f",
+      "gveCode": "GVE-01037926",
+      "tokenId": "762446",
+      "txHash": "0xa5bd548ff225ab85a153ca20834aeed22e7a93a9d7b51881ef474837fa4dff09",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-01037926/coa-0103792698bd0ae3.svg"
+    },
+    {
+      "identifier": "BAG-272",
+      "serial": 272,
+      "lotNumber": "491",
+      "contentHash": "0x46df03f927ae85a504514e7b437fdc97380f7198cfaa689f6c74b7d28af09140",
+      "gveCode": "GVE-46df03f9",
+      "tokenId": "762447",
+      "txHash": "0x9a752befac09449230b4dad7e11b6c99c58d49f9e303ba43fe8ca96445f83497",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-46df03f9/coa-46df03f927ae85a5.svg"
+    },
+    {
+      "identifier": "BAG-273",
+      "serial": 273,
+      "lotNumber": "491",
+      "contentHash": "0x083596fece372f024dc4c94c4c30407cf158bec038bcec47afac9b6872ebf208",
+      "gveCode": "GVE-083596fe",
+      "tokenId": "762448",
+      "txHash": "0x7b15bbad7d53df8ea0ad7f414c98ebebd608e663f3fdefb175bd9270901cdc9a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-083596fe/coa-083596fece372f02.svg"
+    },
+    {
+      "identifier": "BAG-274",
+      "serial": 274,
+      "lotNumber": "491",
+      "contentHash": "0x84599f194d436c8136fd14aa0d8251fef62cdbcce0431212fb23f98c3fd22323",
+      "gveCode": "GVE-84599f19",
+      "tokenId": "762449",
+      "txHash": "0xb463762de710cef6ee06f82bb0f98f30c092987010613d60aec5f05f164e5c0b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-84599f19/coa-84599f194d436c81.svg"
+    },
+    {
+      "identifier": "BAG-275",
+      "serial": 275,
+      "lotNumber": "491",
+      "contentHash": "0x5bcfd9e8af5b4a660f80ebe6c8ad8e852d1207bd10766e367ad20122d0e08d1b",
+      "gveCode": "GVE-5bcfd9e8",
+      "tokenId": "762450",
+      "txHash": "0xfca2bb0258921613c34a5ed276a87ca872d0dc58b60dffe8513cb98a4049b0e9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5bcfd9e8/coa-5bcfd9e8af5b4a66.svg"
+    },
+    {
+      "identifier": "BAG-276",
+      "serial": 276,
+      "lotNumber": "491",
+      "contentHash": "0x67e42bc6db8980247793ac1977bb525e8c4856617ee492ea8557d2ceedaa9a81",
+      "gveCode": "GVE-67e42bc6",
+      "tokenId": "762451",
+      "txHash": "0x4370d6177c9555382de539d373662e9861a19e6bc54c031ddbaea3302f1bfb6c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-67e42bc6/coa-67e42bc6db898024.svg"
+    },
+    {
+      "identifier": "BAG-277",
+      "serial": 277,
+      "lotNumber": "491",
+      "contentHash": "0x4e618c2f7bbfeaee7c0aebad912085a9648841f3aa747b40f14ce53aa5aa9e4b",
+      "gveCode": "GVE-4e618c2f",
+      "tokenId": "762452",
+      "txHash": "0xe65492245600cac48975560aa44a99f338e2a526f6020cde7358dae1a31f9429",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e618c2f/coa-4e618c2f7bbfeaee.svg"
+    },
+    {
+      "identifier": "BAG-278",
+      "serial": 278,
+      "lotNumber": "491",
+      "contentHash": "0x75991637a8992ef5a3ad9aa0d9db4d568dadcddab69bf3060f1b397f8ce49d65",
+      "gveCode": "GVE-75991637",
+      "tokenId": "762453",
+      "txHash": "0x98bb1238e52749db65b81bf092a335699a95ee481eebcd04c83ce3c026d7a43c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-75991637/coa-75991637a8992ef5.svg"
+    },
+    {
+      "identifier": "BAG-279",
+      "serial": 279,
+      "lotNumber": "491",
+      "contentHash": "0xcdba2a4a7fbb6b9f672a00d56f15a0c21c91b0e1737ef20fe4f09d0ed605491d",
+      "gveCode": "GVE-cdba2a4a",
+      "tokenId": "762454",
+      "txHash": "0x82e6d07945f8d8f40d1f271c83a1bc7bdabc1d248355bbb7f7285f88afc1c771",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cdba2a4a/coa-cdba2a4a7fbb6b9f.svg"
+    },
+    {
+      "identifier": "BAG-280",
+      "serial": 280,
+      "lotNumber": "491",
+      "contentHash": "0x0d11fbb0f9e78893ec3756824eb2ed1b23244dc3e290af765392d3e379402599",
+      "gveCode": "GVE-0d11fbb0",
+      "tokenId": "762455",
+      "txHash": "0xacc1041f3919fe21876f222d04e6ea7e495864155c40df334cafeeb53bed725a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0d11fbb0/coa-0d11fbb0f9e78893.svg"
+    },
+    {
+      "identifier": "BAG-281",
+      "serial": 281,
+      "lotNumber": "491",
+      "contentHash": "0xbab7733aee7fb5cba4b58bbf1a7c27ae5ab4a5c563973fa21a3c8f8fef957ac5",
+      "gveCode": "GVE-bab7733a",
+      "tokenId": "762456",
+      "txHash": "0x06f62c9414d728b7474cf8e2c617201f573f7b4104118ebc2bb46ea4704a2968",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-bab7733a/coa-bab7733aee7fb5cb.svg"
+    },
+    {
+      "identifier": "BAG-282",
+      "serial": 282,
+      "lotNumber": "491",
+      "contentHash": "0x610a4a2077406bbbae13089ee07449ec1aeb886ae334559013b963ba907d4719",
+      "gveCode": "GVE-610a4a20",
+      "tokenId": "762457",
+      "txHash": "0x21aa29b87a6a3c3f7cd548cb44b6f61e0b9156cee50dc96200f3c43323349a18",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-610a4a20/coa-610a4a2077406bbb.svg"
+    },
+    {
+      "identifier": "BAG-283",
+      "serial": 283,
+      "lotNumber": "491",
+      "contentHash": "0x45ab531453b1aa5bc747103ba9b008b82275dbd594e1fe2fcc9553fe77215920",
+      "gveCode": "GVE-45ab5314",
+      "tokenId": "762458",
+      "txHash": "0x8fbf030109da13e167617c38912b750c5a6c89d90195f9b48e0b8851845e87dd",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-45ab5314/coa-45ab531453b1aa5b.svg"
+    },
+    {
+      "identifier": "BAG-284",
+      "serial": 284,
+      "lotNumber": "491",
+      "contentHash": "0xd2990532d33b5c55610642fe95f5cd191239c1c93176312de0a2eeed7ba4067a",
+      "gveCode": "GVE-d2990532",
+      "tokenId": "762459",
+      "txHash": "0x434a5971ea13ce9d94c79522b1c7bb401c7aae54a3643a2aee67ee25ac7f0feb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d2990532/coa-d2990532d33b5c55.svg"
+    },
+    {
+      "identifier": "BAG-285",
+      "serial": 285,
+      "lotNumber": "491",
+      "contentHash": "0x5a5089e4e6664ce1e9e51dcafa0c355ed4b7d36757a9ea093bd3427bb529a421",
+      "gveCode": "GVE-5a5089e4",
+      "tokenId": "762460",
+      "txHash": "0x7a1f2f86fab9ef3b75af77769b29765a0d8a941af143b43e227ae86641f885e6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-5a5089e4/coa-5a5089e4e6664ce1.svg"
+    },
+    {
+      "identifier": "BAG-286",
+      "serial": 286,
+      "lotNumber": "491",
+      "contentHash": "0x0803ec73db22229c38c272735fb4a7f2f8a484df768c3efe86fbd43820a1671a",
+      "gveCode": "GVE-0803ec73",
+      "tokenId": "762461",
+      "txHash": "0xf517b690123596fec38d9b9b15b589262a292ba6c1858c1422ee2b7b55177854",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0803ec73/coa-0803ec73db22229c.svg"
+    },
+    {
+      "identifier": "BAG-287",
+      "serial": 287,
+      "lotNumber": "491",
+      "contentHash": "0x8ce1b603f7d3e287d814ff13c14273ebae4df35b75914a48f9a327ace6f2daf7",
+      "gveCode": "GVE-8ce1b603",
+      "tokenId": "762462",
+      "txHash": "0x5d5d256c69b5155a4b188ddba711e36463415d268661392ee331b618ea115247",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8ce1b603/coa-8ce1b603f7d3e287.svg"
+    },
+    {
+      "identifier": "BAG-288",
+      "serial": 288,
+      "lotNumber": "491",
+      "contentHash": "0xac70244df1436f127833b20a4da7f78cf41db666fd6d2aace2cadece92cd4756",
+      "gveCode": "GVE-ac70244d",
+      "tokenId": "762463",
+      "txHash": "0x8b0c474154b2ea0c418e65c12e5f952127b9683874a657c1c826935a31f12b5b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ac70244d/coa-ac70244df1436f12.svg"
+    },
+    {
+      "identifier": "BAG-289",
+      "serial": 289,
+      "lotNumber": "491",
+      "contentHash": "0x8e97a0218bdcf6613be3dcd5f0d21d29ce2680c8d3824bb8ad715ef60593f70b",
+      "gveCode": "GVE-8e97a021",
+      "tokenId": "762464",
+      "txHash": "0xd084e460c4fa47bc28cf20f821908f1deb79baac4d7b6aff20c0e284fc895a13",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8e97a021/coa-8e97a0218bdcf661.svg"
+    },
+    {
+      "identifier": "BAG-290",
+      "serial": 290,
+      "lotNumber": "491",
+      "contentHash": "0x56c3f38fab086245dafe667ac89c21bbcb539a8853c584457391f4ac2669ceaf",
+      "gveCode": "GVE-56c3f38f",
+      "tokenId": "762465",
+      "txHash": "0x9e786ddbef75b530fad2c95613aa21c40cddfa5212c3e60a6e40d622f5e353eb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-56c3f38f/coa-56c3f38fab086245.svg"
+    },
+    {
+      "identifier": "BAG-291",
+      "serial": 291,
+      "lotNumber": "491",
+      "contentHash": "0xcda35e1d073f30f018753a26697401bcfc4fbb3a64d98926c0a9620f6340944f",
+      "gveCode": "GVE-cda35e1d",
+      "tokenId": "762466",
+      "txHash": "0xb2f09e430d574f60464905a8091d8b5d6155e18f5ce7125e650ccdaaf5fb081b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cda35e1d/coa-cda35e1d073f30f0.svg"
+    },
+    {
+      "identifier": "BAG-292",
+      "serial": 292,
+      "lotNumber": "491",
+      "contentHash": "0x0cec3b79634fbb1f59a742d96a135fa34802cc756d6293ac49b276b0487ced1d",
+      "gveCode": "GVE-0cec3b79",
+      "tokenId": "762467",
+      "txHash": "0xdb512d9608fef37d9a79fe14077e90e97c387a5485013cdaee3c12d36dfc4cc3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0cec3b79/coa-0cec3b79634fbb1f.svg"
+    },
+    {
+      "identifier": "BAG-293",
+      "serial": 293,
+      "lotNumber": "491",
+      "contentHash": "0x9c80eca4b0a4f6fc6daa3f40bf361ec9277d5f4fdd65a4767ca240881c96d462",
+      "gveCode": "GVE-9c80eca4",
+      "tokenId": "762468",
+      "txHash": "0x840f18aeeb17853601db6c665e34d3f545bcf09e8d85267424cfd2842ecb471e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-9c80eca4/coa-9c80eca4b0a4f6fc.svg"
+    },
+    {
+      "identifier": "BAG-294",
+      "serial": 294,
+      "lotNumber": "491",
+      "contentHash": "0x082e683e2bc59f33f39d84f001adb5c070f1e5ce1e366adea101a4d4864688a1",
+      "gveCode": "GVE-082e683e",
+      "tokenId": "762469",
+      "txHash": "0x9e6277302b52bc62907d65ac7b151d9ad5ab990fcaa3ce7713cbc1274e380a30",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-082e683e/coa-082e683e2bc59f33.svg"
+    },
+    {
+      "identifier": "BAG-295",
+      "serial": 295,
+      "lotNumber": "491",
+      "contentHash": "0x2d3614fe6686fed0aeef39d10498cfb26284a85168099f1d79fd7d5b5fffe479",
+      "gveCode": "GVE-2d3614fe",
+      "tokenId": "762470",
+      "txHash": "0xa59bcea1a53f1fd4f0ecf5fd70c970f559d4f47e32ca75c8aea3c8401a542997",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2d3614fe/coa-2d3614fe6686fed0.svg"
+    },
+    {
+      "identifier": "BAG-296",
+      "serial": 296,
+      "lotNumber": "491",
+      "contentHash": "0x183be9c26d218047722c5ba323bee8ed8789ec47bb077fee150f332cd7f30653",
+      "gveCode": "GVE-183be9c2",
+      "tokenId": "762471",
+      "txHash": "0x04366e7c77b6767bd633d813b391c0b3495bd49201c3e00060ab0e1c217b0b00",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-183be9c2/coa-183be9c26d218047.svg"
+    },
+    {
+      "identifier": "BAG-297",
+      "serial": 297,
+      "lotNumber": "491",
+      "contentHash": "0x885bb04df674f7df232ac1720dc4213e710567092c2c109796965122c79a45e6",
+      "gveCode": "GVE-885bb04d",
+      "tokenId": "762472",
+      "txHash": "0x43db331f5d16af85a055a39da65041c54735ba7c53a81e39d56423904c172a1e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-885bb04d/coa-885bb04df674f7df.svg"
+    },
+    {
+      "identifier": "BAG-298",
+      "serial": 298,
+      "lotNumber": "491",
+      "contentHash": "0x2eb0f2d9df19086f80cd27b6c8612a3f17c2a8b8c6f6aa47779197d66bf8b2c5",
+      "gveCode": "GVE-2eb0f2d9",
+      "tokenId": "762473",
+      "txHash": "0x82016074368b160c69837d0c68fc061d5aee7e70e38232c542f05b6148bc32ca",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2eb0f2d9/coa-2eb0f2d9df19086f.svg"
+    },
+    {
+      "identifier": "BAG-299",
+      "serial": 299,
+      "lotNumber": "491",
+      "contentHash": "0xf1851400b34a3531b2e6ab590dbc936ddcac759f440e4a3cfdb3ebc428f1296a",
+      "gveCode": "GVE-f1851400",
+      "tokenId": "762474",
+      "txHash": "0x6e8aa72f2e07523b97494d505e5472985b17aa9009d3d4d4c5ea847cc2383e0b",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f1851400/coa-f1851400b34a3531.svg"
+    },
+    {
+      "identifier": "BAG-300",
+      "serial": 300,
+      "lotNumber": "491",
+      "contentHash": "0x8aa689efee42632ca264c9775173343c5334452d7f07dde377e30e9d9cfe6d4a",
+      "gveCode": "GVE-8aa689ef",
+      "tokenId": "762475",
+      "txHash": "0xd3e9818189471a605f3a661b95e7c4efffc5a40fd324b63f390265fa2956f6b7",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8aa689ef/coa-8aa689efee42632c.svg"
+    },
+    {
+      "identifier": "BAG-301",
+      "serial": 301,
+      "lotNumber": "493",
+      "contentHash": "0xc793c92a7ee67459a4cff53d2c8a40c7dd078e575007d7b75d248132f53dffcf",
+      "gveCode": "GVE-c793c92a",
+      "tokenId": "762476",
+      "txHash": "0x0c30390a89e295e2df82f0aac685a824943ef1ce9a7df603b3b6d10961e9e6c3",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c793c92a/coa-c793c92a7ee67459.svg"
+    },
+    {
+      "identifier": "BAG-302",
+      "serial": 302,
+      "lotNumber": "493",
+      "contentHash": "0x22702fb4d4a281ea6b4dd30143e8a5153872777dabb330d00f2e972861718273",
+      "gveCode": "GVE-22702fb4",
+      "tokenId": "762477",
+      "txHash": "0xc149f4479fdf1be4b88ba8053c1c74f30b62d38d17a692ae3a3784cc3fb23352",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-22702fb4/coa-22702fb4d4a281ea.svg"
+    },
+    {
+      "identifier": "BAG-303",
+      "serial": 303,
+      "lotNumber": "493",
+      "contentHash": "0xf74b03ebd49eab7379abfb9a9725510b9d41a4af38b1801a217b20aa40d6403b",
+      "gveCode": "GVE-f74b03eb",
+      "tokenId": "762478",
+      "txHash": "0x1239630f6baaeb49fecbaa9bb85297e44653975c28a3be9de96449e0f4565148",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f74b03eb/coa-f74b03ebd49eab73.svg"
+    },
+    {
+      "identifier": "BAG-304",
+      "serial": 304,
+      "lotNumber": "493",
+      "contentHash": "0x781e77cff55fa430f70acc529ad2088d701308267e8ce891cf34cecb96684a81",
+      "gveCode": "GVE-781e77cf",
+      "tokenId": "762479",
+      "txHash": "0x7a2277e1801e3e0abe45a201a98e187f0c793259909b8f9c00d3969696314bd1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-781e77cf/coa-781e77cff55fa430.svg"
+    },
+    {
+      "identifier": "BAG-305",
+      "serial": 305,
+      "lotNumber": "493",
+      "contentHash": "0x348eeffafcb5294f7c334652e92c72598c6c25b949343acc5c51defb45020b4a",
+      "gveCode": "GVE-348eeffa",
+      "tokenId": "762480",
+      "txHash": "0x06859d93b3855128cc91469e7b86510f711e30c8eadb09d84c309ea5ec2e9680",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-348eeffa/coa-348eeffafcb5294f.svg"
+    },
+    {
+      "identifier": "BAG-306",
+      "serial": 306,
+      "lotNumber": "493",
+      "contentHash": "0xbba614d6d2ed3c9ca6fa3076940c7e50fab39c20a09911b2f6b4b7c2cccd2ac4",
+      "gveCode": "GVE-bba614d6",
+      "tokenId": "762481",
+      "txHash": "0x3fbde4d4a9c05fb8864717af999760ff8c831967d9f0a84f6bab64a5aa4c09c6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-bba614d6/coa-bba614d6d2ed3c9c.svg"
+    },
+    {
+      "identifier": "BAG-307",
+      "serial": 307,
+      "lotNumber": "493",
+      "contentHash": "0x3b9c0e056b5b6995beed5b093848c9db86a2bbf00b8370ab37172c818011e234",
+      "gveCode": "GVE-3b9c0e05",
+      "tokenId": "762482",
+      "txHash": "0x67b18cfc2a792b75a65b7019c341dafe8d706f09adc8e6a9443b8f2e951d975f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3b9c0e05/coa-3b9c0e056b5b6995.svg"
+    },
+    {
+      "identifier": "BAG-308",
+      "serial": 308,
+      "lotNumber": "493",
+      "contentHash": "0xce2e7c56d0dac75805c46c6d6378b81cc3f8870423bb401ae56273650633e740",
+      "gveCode": "GVE-ce2e7c56",
+      "tokenId": "762483",
+      "txHash": "0x28d04b8edf08c8e8f07d105147cc4d7e69a0f98be7a1fd62d47d021350d458a0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ce2e7c56/coa-ce2e7c56d0dac758.svg"
+    },
+    {
+      "identifier": "BAG-309",
+      "serial": 309,
+      "lotNumber": "493",
+      "contentHash": "0xd7bbc24f69cea172a4a44ca14e959682b80d2eb75c830128c56ffac87c2039f8",
+      "gveCode": "GVE-d7bbc24f",
+      "tokenId": "762484",
+      "txHash": "0x8c97374be4de392471b14c48f8597cd7230f48924d478fb2675efddfd0c3c6d6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-d7bbc24f/coa-d7bbc24f69cea172.svg"
+    },
+    {
+      "identifier": "BAG-310",
+      "serial": 310,
+      "lotNumber": "493",
+      "contentHash": "0xc5f7b1ea4551c18a903754f41a2d6dbcd814d7cbc7755ad1b0dc41bd0d2a6551",
+      "gveCode": "GVE-c5f7b1ea",
+      "tokenId": "762485",
+      "txHash": "0x9d769c7cf93ad8dd7c20a69001313cc19844574be0370f0211d881c97659c46e",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c5f7b1ea/coa-c5f7b1ea4551c18a.svg"
+    },
+    {
+      "identifier": "BAG-311",
+      "serial": 311,
+      "lotNumber": "493",
+      "contentHash": "0x0c853747d9f61de15716690fd54503951556bcab79bdbd9068e1cfe81359dc3f",
+      "gveCode": "GVE-0c853747",
+      "tokenId": "762486",
+      "txHash": "0xe2fc8704ea7382c39d7a65c91818daac00e17f4454df0b179ffba00bc926e53f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0c853747/coa-0c853747d9f61de1.svg"
+    },
+    {
+      "identifier": "BAG-312",
+      "serial": 312,
+      "lotNumber": "493",
+      "contentHash": "0xfd7105df52bccdb15b331941c88505f6a00df6e332347d166c830803803edf38",
+      "gveCode": "GVE-fd7105df",
+      "tokenId": "762487",
+      "txHash": "0x662c0c06acbe15c1d85c9f055d3f534cd54a61dd4d146f30c27046c8bb3e9106",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fd7105df/coa-fd7105df52bccdb1.svg"
+    },
+    {
+      "identifier": "BAG-313",
+      "serial": 313,
+      "lotNumber": "493",
+      "contentHash": "0xfd219e612616cbdbf5f784fda2690c01145eb85d9291d9e71cb8ad25210ce53c",
+      "gveCode": "GVE-fd219e61",
+      "tokenId": "762488",
+      "txHash": "0x1fe867ad16223cebf3e711bda2edec057e982c725d338036046654333081ac3f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fd219e61/coa-fd219e612616cbdb.svg"
+    },
+    {
+      "identifier": "BAG-314",
+      "serial": 314,
+      "lotNumber": "493",
+      "contentHash": "0x0a60b27b4670415d441c5d10018e67c0888b286de4adfc6d62c42fce3630df3a",
+      "gveCode": "GVE-0a60b27b",
+      "tokenId": "762489",
+      "txHash": "0x21023643cf6d76465fb0fdfbde8668e4f999ff18ed326657b1b87966b4c9aee9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0a60b27b/coa-0a60b27b4670415d.svg"
+    },
+    {
+      "identifier": "BAG-315",
+      "serial": 315,
+      "lotNumber": "493",
+      "contentHash": "0x347b8211d00e86c6592a282f5bddbda11b35a89264d4e961a68518cdcda22cbc",
+      "gveCode": "GVE-347b8211",
+      "tokenId": "762490",
+      "txHash": "0xa7c1ebcdeaddd98936bd8178dde5cc3ca4bdcef8f61bf3a72fcfa629f688b598",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-347b8211/coa-347b8211d00e86c6.svg"
+    },
+    {
+      "identifier": "BAG-316",
+      "serial": 316,
+      "lotNumber": "493",
+      "contentHash": "0xe5c934f0cf309902aa4148ad26aea7d7491eb7f66903e6d0ae86026bab8fbba1",
+      "gveCode": "GVE-e5c934f0",
+      "tokenId": "762491",
+      "txHash": "0x99fed804665e0d95d4396a2809185251c98c91dd7070a3bc87e2baf989d1bedc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e5c934f0/coa-e5c934f0cf309902.svg"
+    },
+    {
+      "identifier": "BAG-317",
+      "serial": 317,
+      "lotNumber": "493",
+      "contentHash": "0xf9c7e52add0b470cc56912a8bb445389c867ed2ef8e4e486e9c282f6fc643ac7",
+      "gveCode": "GVE-f9c7e52a",
+      "tokenId": "762492",
+      "txHash": "0x0c5e86f38d14d30ac9cc4c059d328d699d884fddcecc613fd37acf8a3e26bc0f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-f9c7e52a/coa-f9c7e52add0b470c.svg"
+    },
+    {
+      "identifier": "BAG-318",
+      "serial": 318,
+      "lotNumber": "493",
+      "contentHash": "0xb8d6af31ae65b821ff89ecd774aef498f506ba72c3c720990900313e8e59ccfd",
+      "gveCode": "GVE-b8d6af31",
+      "tokenId": "762493",
+      "txHash": "0x99f88ef7cdab5cb0d38743abbe93b398de768b48a62ce41875ec6f7482ee7cdb",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b8d6af31/coa-b8d6af31ae65b821.svg"
+    },
+    {
+      "identifier": "BAG-319",
+      "serial": 319,
+      "lotNumber": "493",
+      "contentHash": "0xb72498869bade6a06f37c38a10178793f31ffcc448af900d4d8aaa9766ab8fa9",
+      "gveCode": "GVE-b7249886",
+      "tokenId": "762494",
+      "txHash": "0xa2acc04b911141a896b54207cb0504a571f178ffc7a79489cf4af04da6336cc4",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-b7249886/coa-b72498869bade6a0.svg"
+    },
+    {
+      "identifier": "BAG-320",
+      "serial": 320,
+      "lotNumber": "493",
+      "contentHash": "0xc9e03e9b36daf813708424a95116ade5bbdc0a7cb9193fca74fee9b83311aef3",
+      "gveCode": "GVE-c9e03e9b",
+      "tokenId": "762495",
+      "txHash": "0x4261d707275ef52942249e6e01cba3b304320c2adc7928cce24ecba2cfeb9265",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-c9e03e9b/coa-c9e03e9b36daf813.svg"
+    },
+    {
+      "identifier": "BAG-321",
+      "serial": 321,
+      "lotNumber": "493",
+      "contentHash": "0x8c516100c58a7e3df4e577155aaab71e5af364b5ec3b64bdf5b249e64e6cee48",
+      "gveCode": "GVE-8c516100",
+      "tokenId": "762496",
+      "txHash": "0xbe099a25d272354aff84de15c767b149a8b9f1d4c89b640455fdc12f4de54857",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8c516100/coa-8c516100c58a7e3d.svg"
+    },
+    {
+      "identifier": "BAG-322",
+      "serial": 322,
+      "lotNumber": "493",
+      "contentHash": "0x3fb851050296dc07f3ffa0d9585c9a29e1ab136294a78767cca3ee27934dcd7d",
+      "gveCode": "GVE-3fb85105",
+      "tokenId": "762497",
+      "txHash": "0xa665b08a73d1e3bb00dbff719fc4109b3a05c85baf09d073bf5621197ffc5e5d",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-3fb85105/coa-3fb851050296dc07.svg"
+    },
+    {
+      "identifier": "BAG-323",
+      "serial": 323,
+      "lotNumber": "493",
+      "contentHash": "0x02a48b61f235a0786acb8129c213a55a5a5abe3f62fe81e9f9782d75ffbc0258",
+      "gveCode": "GVE-02a48b61",
+      "tokenId": "762498",
+      "txHash": "0xcbbfe848fba66c1dff85f955db2de444cb06fcb2657dc2efe22381c27c2f3e88",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-02a48b61/coa-02a48b61f235a078.svg"
+    },
+    {
+      "identifier": "BAG-324",
+      "serial": 324,
+      "lotNumber": "493",
+      "contentHash": "0x1212f33c414b9908e8322b92f71a3c80bfc76a8d74e8ffe4f85f12a870819a33",
+      "gveCode": "GVE-1212f33c",
+      "tokenId": "762499",
+      "txHash": "0x07948ebe977e75f241d9a5e98107f36ee3c188e74a4585f64a3eb74c927e5517",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-1212f33c/coa-1212f33c414b9908.svg"
+    },
+    {
+      "identifier": "BAG-325",
+      "serial": 325,
+      "lotNumber": "493",
+      "contentHash": "0x08549a6575f0d593a821b9fedb223c0a27f22989961e6be0edb1363b4fbe7027",
+      "gveCode": "GVE-08549a65",
+      "tokenId": "762500",
+      "txHash": "0x99d9338980f81268d99c4d5b936700cb866039eb42b24620b72810bcf4a86978",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-08549a65/coa-08549a6575f0d593.svg"
+    },
+    {
+      "identifier": "BAG-326",
+      "serial": 326,
+      "lotNumber": "493",
+      "contentHash": "0x6c611acf5a86fed2a6d9f08e5e78ba29e66beb5b14d9e51885ed1366a17d1b12",
+      "gveCode": "GVE-6c611acf",
+      "tokenId": "762501",
+      "txHash": "0xf33732e2459ccd650056938e0498a014ed67efd83ae6360c7f6810c33d6e7dc6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-6c611acf/coa-6c611acf5a86fed2.svg"
+    },
+    {
+      "identifier": "BAG-327",
+      "serial": 327,
+      "lotNumber": "493",
+      "contentHash": "0x411286fcbe79287d77983b2e396f5d4147673270952c302b354e9bbe5f169ce2",
+      "gveCode": "GVE-411286fc",
+      "tokenId": "762502",
+      "txHash": "0x0098ed019cf397c6ee55decf82dc5ee0c73870029e546d2c95eded956fddd9fc",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-411286fc/coa-411286fcbe79287d.svg"
+    },
+    {
+      "identifier": "BAG-328",
+      "serial": 328,
+      "lotNumber": "493",
+      "contentHash": "0xff328f284c7e23c9e57c7d6ab87eedcd05e49680c8c377340d21e86fedbe6e21",
+      "gveCode": "GVE-ff328f28",
+      "tokenId": "762503",
+      "txHash": "0x52cc47d21e48eb54b5c0bbb96cb446c1ef07018d7db4c2b2aef43c8ee5dbc7a9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ff328f28/coa-ff328f284c7e23c9.svg"
+    },
+    {
+      "identifier": "BAG-329",
+      "serial": 329,
+      "lotNumber": "493",
+      "contentHash": "0x4ce7a76daa3e1ff2a72c292d00fb716961b91628fafd561f2a43c8a13ff04871",
+      "gveCode": "GVE-4ce7a76d",
+      "tokenId": "762504",
+      "txHash": "0x0de7fe5b3376eed49d1264710e13f46d92cdb0e20460ad4b05deb3854bb9567f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4ce7a76d/coa-4ce7a76daa3e1ff2.svg"
+    },
+    {
+      "identifier": "BAG-330",
+      "serial": 330,
+      "lotNumber": "493",
+      "contentHash": "0xcc6b8e563adc2419b743327728e5ffd7b78234f395637fda04470fdd801b49e0",
+      "gveCode": "GVE-cc6b8e56",
+      "tokenId": "762505",
+      "txHash": "0xd318b60ae5c37d5048d5a6cdfacd841f7941c16c7725084b0c944de5610f4f93",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-cc6b8e56/coa-cc6b8e563adc2419.svg"
+    },
+    {
+      "identifier": "BAG-331",
+      "serial": 331,
+      "lotNumber": "493",
+      "contentHash": "0x0f6a620813e55dbe492da6037f3f4e3869ab115ee72409574b34c91d91353855",
+      "gveCode": "GVE-0f6a6208",
+      "tokenId": "762506",
+      "txHash": "0x879ca17e6dce406c6bc4b2eead4914f342253662ec06f6f8baddfeb265cf3d95",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0f6a6208/coa-0f6a620813e55dbe.svg"
+    },
+    {
+      "identifier": "BAG-332",
+      "serial": 332,
+      "lotNumber": "493",
+      "contentHash": "0x76fc94b173f932a05762d3b4b2b874cfafe3ec2b3488cb514c7c68500b2bf619",
+      "gveCode": "GVE-76fc94b1",
+      "tokenId": "762507",
+      "txHash": "0x82337cf5f04ece082df398dbaaf03c32502f156646a518ffba2171d7823d27a6",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-76fc94b1/coa-76fc94b173f932a0.svg"
+    },
+    {
+      "identifier": "BAG-333",
+      "serial": 333,
+      "lotNumber": "493",
+      "contentHash": "0xa23592d30646bcbdf06c27ea3f23454df16c5cfb0f9466b97973cf6acbb27e35",
+      "gveCode": "GVE-a23592d3",
+      "tokenId": "762508",
+      "txHash": "0x7f427aeea22a6cb953871677849313d0ceb7e89f8a09d60ed3bd5427a751d17a",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a23592d3/coa-a23592d30646bcbd.svg"
+    },
+    {
+      "identifier": "BAG-334",
+      "serial": 334,
+      "lotNumber": "493",
+      "contentHash": "0xec15aaebfa0ca6630057a2793639aa0cc358ffb7dd6fdfc59659639b8a14a646",
+      "gveCode": "GVE-ec15aaeb",
+      "tokenId": "762509",
+      "txHash": "0x9a5340b51f9747a32bf123ddbb629a22debd5f0ec507d0391b09789ad48b6936",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ec15aaeb/coa-ec15aaebfa0ca663.svg"
+    },
+    {
+      "identifier": "BAG-335",
+      "serial": 335,
+      "lotNumber": "493",
+      "contentHash": "0xfb847c8bcc3c692cb042d2b658ca700a43e7cb756b6818e9707f7d3a3f91ec1c",
+      "gveCode": "GVE-fb847c8b",
+      "tokenId": "762510",
+      "txHash": "0x4527c677b5d5793cebca1f8ed1d29f146c15b30ff4241ae197bbd0f2ec77c692",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-fb847c8b/coa-fb847c8bcc3c692c.svg"
+    },
+    {
+      "identifier": "BAG-336",
+      "serial": 336,
+      "lotNumber": "493",
+      "contentHash": "0x2178a0902959216cccdf90535934838dd91d6c510f4acd0cd5410a1a317a9edc",
+      "gveCode": "GVE-2178a090",
+      "tokenId": "762511",
+      "txHash": "0x49ff9594ec92772964ce38b6e2082cd3457c53b68ce5bc45dd9c85ff5ece491f",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-2178a090/coa-2178a0902959216c.svg"
+    },
+    {
+      "identifier": "BAG-337",
+      "serial": 337,
+      "lotNumber": "493",
+      "contentHash": "0x11a79a94136df18937bd24dec2e5360ce2949644c9a9fc8981248c31c1d4e91b",
+      "gveCode": "GVE-11a79a94",
+      "tokenId": "762512",
+      "txHash": "0x15b48dea91220f2abc9bf5d8e9fb3386e5ec7adb3e0dade6c2886241ce195f2c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-11a79a94/coa-11a79a94136df189.svg"
+    },
+    {
+      "identifier": "BAG-338",
+      "serial": 338,
+      "lotNumber": "493",
+      "contentHash": "0xdd7c520d0ca7ba6dffd81a2c63ff1e971d581b04064f30c72f554cf103501f1f",
+      "gveCode": "GVE-dd7c520d",
+      "tokenId": "762513",
+      "txHash": "0xb6a70dd2e170c820d0050177768f1c69bcd5465656f0cad624d303f61d1b2759",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-dd7c520d/coa-dd7c520d0ca7ba6d.svg"
+    },
+    {
+      "identifier": "BAG-339",
+      "serial": 339,
+      "lotNumber": "493",
+      "contentHash": "0xa775f07ce645d603b5dc2788c23956f0a332d7057f5b2832d6f0d57e292a33fe",
+      "gveCode": "GVE-a775f07c",
+      "tokenId": "762514",
+      "txHash": "0xbb487e6e3405098ebade59fb0a8cd66084ab6c53c734e15b30eb52d479e39cee",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a775f07c/coa-a775f07ce645d603.svg"
+    },
+    {
+      "identifier": "BAG-340",
+      "serial": 340,
+      "lotNumber": "493",
+      "contentHash": "0x8f127b1accf3884909eda3f50b01073d6794c1ec92642b94c31c473c0c3484ee",
+      "gveCode": "GVE-8f127b1a",
+      "tokenId": "762515",
+      "txHash": "0x2dd9d2e6e5075a398bb52c42549ce6604aa9395e6c3f01557982cfe914b04a47",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8f127b1a/coa-8f127b1accf38849.svg"
+    },
+    {
+      "identifier": "BAG-341",
+      "serial": 341,
+      "lotNumber": "493",
+      "contentHash": "0xa8fedff9a0ad3ff5618cdccf5390923487a7714b4c0702870e09c69f7d37a22c",
+      "gveCode": "GVE-a8fedff9",
+      "tokenId": "762516",
+      "txHash": "0x216b0bcbdceeb40b42c572dd2a3e981975b413097d3d81de1728c2ff14acf530",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-a8fedff9/coa-a8fedff9a0ad3ff5.svg"
+    },
+    {
+      "identifier": "BAG-342",
+      "serial": 342,
+      "lotNumber": "493",
+      "contentHash": "0xe6e38acbdc2ceb6c4c8c2dd23471869f5471bb34ddf61a0cbcdf094def1bbe78",
+      "gveCode": "GVE-e6e38acb",
+      "tokenId": "762517",
+      "txHash": "0xc0473a56e78b9478bc29731309195697d1f7f34f85169c79a448d95966406100",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-e6e38acb/coa-e6e38acbdc2ceb6c.svg"
+    },
+    {
+      "identifier": "BAG-343",
+      "serial": 343,
+      "lotNumber": "493",
+      "contentHash": "0x59828f9774bb15244b304edfa1ad432f3c3f7e15bb6a5cd165e700ec662725a3",
+      "gveCode": "GVE-59828f97",
+      "tokenId": "762518",
+      "txHash": "0xbe756960330d3e562dd0502c890c0033b828bcf31857fa92e0c8d15a6b966f94",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-59828f97/coa-59828f9774bb1524.svg"
+    },
+    {
+      "identifier": "BAG-344",
+      "serial": 344,
+      "lotNumber": "493",
+      "contentHash": "0x8865d1b4d376b774efa9ea3cb9304637991fee2667755385b369df2af423c420",
+      "gveCode": "GVE-8865d1b4",
+      "tokenId": "762519",
+      "txHash": "0x76b85f1802e3c73263aac3fcb1e417e90ee5d9047348a4e08a9aaa9a57dad3b9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-8865d1b4/coa-8865d1b4d376b774.svg"
+    },
+    {
+      "identifier": "BAG-345",
+      "serial": 345,
+      "lotNumber": "493",
+      "contentHash": "0xae547661baaec6afda9ad0fe3983b63504e581d15f695da4af916332056b79eb",
+      "gveCode": "GVE-ae547661",
+      "tokenId": "762520",
+      "txHash": "0xa1767b5ed3f269068dc5d5ba415c0f9f1979e1319d545b78d4500c25fe65b4e2",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ae547661/coa-ae547661baaec6af.svg"
+    },
+    {
+      "identifier": "BAG-346",
+      "serial": 346,
+      "lotNumber": "493",
+      "contentHash": "0x4e1977b5796e0c816ade682bd1b5e73148597bbd7ec18151fd56a154054e320e",
+      "gveCode": "GVE-4e1977b5",
+      "tokenId": "762521",
+      "txHash": "0xc1c96d8cf32036bbfd18d2ef267ce2f60a8d8eda9f1c81c2ed7822925189e9a1",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-4e1977b5/coa-4e1977b5796e0c81.svg"
+    },
+    {
+      "identifier": "BAG-347",
+      "serial": 347,
+      "lotNumber": "493",
+      "contentHash": "0x0451a88354f99fc9e67edc3b00011276ba48c4ac9bb8095b7fbedb370aa94f79",
+      "gveCode": "GVE-0451a883",
+      "tokenId": "762522",
+      "txHash": "0xa42bc4c662494414644834cf3e980682b5106dbf5b52c3f8b51969273b1cebc9",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-0451a883/coa-0451a88354f99fc9.svg"
+    },
+    {
+      "identifier": "BAG-348",
+      "serial": 348,
+      "lotNumber": "493",
+      "contentHash": "0xec85f43ae7fd83bae1741b9d1301a9b4ac16bcabc904b22c4dd1aa2194e1ea4a",
+      "gveCode": "GVE-ec85f43a",
+      "tokenId": "762523",
+      "txHash": "0x3f55f18bd0acffa5e3eb707badd8c3c4b17ccbe69b920349dbbdc85a0485903c",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-ec85f43a/coa-ec85f43ae7fd83ba.svg"
+    },
+    {
+      "identifier": "BAG-349",
+      "serial": 349,
+      "lotNumber": "493",
+      "contentHash": "0x71b1b3937542e0da5a427af816718a39a54f830e8b5c5d8861f3facd24b540d8",
+      "gveCode": "GVE-71b1b393",
+      "tokenId": "762524",
+      "txHash": "0x60145d9b09d6548bc1b8b8506388bb772494bcdd0cb843c77905a20572bb5ce0",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-71b1b393/coa-71b1b3937542e0da.svg"
+    },
+    {
+      "identifier": "BAG-350",
+      "serial": 350,
+      "lotNumber": "493",
+      "contentHash": "0x62e5a5f6b350fa4e29ec9120b7f51819f169283a086c9101f2a8239e2ab88896",
+      "gveCode": "GVE-62e5a5f6",
+      "tokenId": "762525",
+      "txHash": "0x8634c4c4224d6368bc4d61d8efdf33c93698a435e4984807a6044660602fbd82",
+      "s3Url": "https://blockticity-coa-uploads.s3.us-east-1.amazonaws.com/GVE-62e5a5f6/coa-62e5a5f6b350fa4e.svg"
+    }
+  ]
+}

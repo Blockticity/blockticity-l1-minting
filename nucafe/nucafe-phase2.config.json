@@ -1,0 +1,56 @@
+{
+  "project": "NUCAFE Phase 2 — 350 Bag COAs",
+  "shipmentRef": "SC2526.004",
+  "certificateTitle": "Certificate of Origin and Traceability",
+  "productName": "NUCAFE GREEN COFFEE",
+  "productDescription": "Serialized bag — Uganda coffee shipment",
+
+  "issuer": {
+    "name": "Uganda Coffee Development Authority - NUCAFE",
+    "address": "Coffee House, Plot 35 Jinja Road, Kampala, Uganda"
+  },
+
+  "chain": {
+    "chainId": 28530,
+    "name": "Blockticity L1 Mainnet",
+    "contract": "0x7D1955F814f25Ec2065C01B9bFc0AcC29B3f2926",
+    "rpcUrl": "https://subnets.avax.network/btic/mainnet/rpc"
+  },
+
+  "mintTo": "0xE2A506B43dF9c4e3B3c284F8cc18cF47Ac266929",
+
+  "totalBags": 350,
+  "serialPrefix": "BAG",
+
+  "bagFields": [
+    { "label": "Product", "value": "Green Coffee" },
+    { "label": "Origin", "value": "Uganda" },
+    { "label": "Shipment Ref", "value": "SC 2526.040" },
+    { "label": "Total Bags", "value": "350" },
+    { "label": "Source Farms", "value": "42" }
+  ],
+
+  "coordinates": {
+    "latitude": "0.3152",
+    "longitude": "32.5910"
+  },
+
+  "phase1": {
+    "farmTokenRange": [762114, 762155],
+    "totalFarms": 42,
+    "manifestPath": "../farm-license-manifest.json"
+  },
+
+  "s3": {
+    "bucket": "blockticity-coa-uploads",
+    "region": "us-east-1"
+  },
+
+  "assets": {
+    "nucafeLogo": "../NUCAFE-Logo.png",
+    "nucafeProductImage": "../NUCAFE-Logo.png",
+    "mapImage": "./assets/kampala-map.png",
+    "blockticitySeal": "~/blockticity-l1-minting/wacker-gve/assets/blockticity-seal.png",
+    "qrLogo": "~/blockticity-l1-minting/wacker-gve/assets/blockticity-qr-logo.png"
+  }
+}

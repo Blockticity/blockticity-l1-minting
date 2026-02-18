@@ -5,6 +5,7 @@ const csv = require("csv-parser");
 const axios = require("axios");
 const FormData = require("form-data");
 const pLimit = require("p-limit");
+const OneSourceAPI = require("./onesource-helper");
 
 const colors = {
   reset: "\x1b[0m",
@@ -21,6 +22,8 @@ const CONFIG = {
   CONTRACT_ADDRESS: process.env.CONTRACT_ADDRESS,
   PINATA_API_KEY: process.env.PINATA_API_KEY,
   PINATA_SECRET_KEY: process.env.PINATA_SECRET_API_KEY,
+  ONESOURCE_API_TOKEN: process.env.ONESOURCE_API_TOKEN, // Required: set in .env file
+  ONESOURCE_ENABLED: process.env.ONESOURCE_ENABLED !== "false", // Enable by default
   BATCH_SIZE: 50, // Optimal batch size for gas efficiency
   IPFS_UPLOAD_CONCURRENCY: 5, // Parallel IPFS uploads
   RETRY_ATTEMPTS: 3,
@@ -33,11 +36,15 @@ class BatchMinter {
     this.contractAddress = contractAddress;
     this.contract = null;
     this.signer = null;
+    this.onesource = CONFIG.ONESOURCE_ENABLED
+      ? new OneSourceAPI(CONFIG.ONESOURCE_API_TOKEN)
+      : null;
     this.stats = {
       totalToMint: 0,
       minted: 0,
       failed: 0,
       ipfsUploaded: 0,
+      onesourceVerified: 0,
       startTime: Date.now(),
     };
     this.ipfsLimit = pLimit(CONFIG.IPFS_UPLOAD_CONCURRENCY);
@@ -45,21 +52,42 @@ class BatchMinter {
 
   async initialize() {
     console.log(`${colors.cyan}Initializing batch minter...${colors.reset}`);
-    
+
     // Get signer and contract
     [this.signer] = await ethers.getSigners();
     const BlockticityLayerZero = await ethers.getContractFactory("BlockticityLayerZero");
     this.contract = BlockticityLayerZero.attach(this.contractAddress);
-    
+
     // Verify contract
     const owner = await this.contract.owner();
     if (owner.toLowerCase() !== this.signer.address.toLowerCase()) {
       throw new Error("Signer is not the contract owner");
     }
-    
+
     console.log(`Contract: ${this.contractAddress}`);
     console.log(`Owner: ${this.signer.address}`);
     console.log(`Current Token ID: ${await this.contract.currentTokenId()}`);
+
+    // Initialize OneSource integration
+    if (this.onesource) {
+      console.log(`\n${colors.cyan}Checking OneSource API...${colors.reset}`);
+      const health = await this.onesource.healthCheck();
+
+      if (health.healthy) {
+        console.log(`${colors.green}✓ OneSource API connected${colors.reset}`);
+        console.log(`  Contract indexed: ${health.contractIndexed ? "Yes" : "No"}`);
+
+        if (!health.contractIndexed) {
+          console.log(`${colors.yellow}⚠ Warning: Contract not found in OneSource index${colors.reset}`);
+        }
+      } else {
+        console.log(`${colors.yellow}⚠ OneSource API unavailable: ${health.error}${colors.reset}`);
+        console.log("  Continuing without real-time verification...");
+        this.onesource = null;
+      }
+    } else {
+      console.log(`${colors.yellow}OneSource integration disabled${colors.reset}`);
+    }
   }
 
   async uploadToIPFS(metadata, retries = CONFIG.RETRY_ATTEMPTS) {
@@ -163,20 +191,39 @@ class BatchMinter {
       const receipt = await tx.wait();
       console.log(`${colors.green}Batch minted successfully!${colors.reset}`);
       console.log(`Gas used: ${receipt.gasUsed.toString()}`);
-      
+
       this.stats.minted += batch.length;
-      
+
+      // Verify with OneSource (if enabled)
+      if (this.onesource) {
+        try {
+          console.log(`${colors.cyan}Verifying with OneSource indexer...${colors.reset}`);
+          const verification = await this.onesource.verifyBatchMint(tx.hash, batch.length);
+
+          if (verification.verified) {
+            console.log(`${colors.green}✓ Transaction indexed by OneSource${colors.reset}`);
+            console.log(`  Block: ${verification.blockNumber}`);
+            this.stats.onesourceVerified += batch.length;
+          }
+        } catch (error) {
+          console.log(`${colors.yellow}⚠ OneSource verification pending: ${error.message}${colors.reset}`);
+          console.log("  Note: Indexing may take a few moments. Check later if needed.");
+        }
+      }
+
       // Log minted COAs
       const mintLog = batch.map(b => ({
         coaId: b.coaId,
         recipient: b.recipient,
         uri: b.uri,
         txHash: tx.hash,
+        blockNumber: receipt.blockNumber,
+        gasUsed: receipt.gasUsed.toString(),
         timestamp: new Date().toISOString(),
       }));
-      
+
       this.saveMintLog(mintLog);
-      
+
       return receipt;
     } catch (error) {
       console.error(`${colors.red}Batch mint failed: ${error.message}${colors.reset}`);
@@ -223,12 +270,16 @@ class BatchMinter {
     const rate = this.stats.minted / elapsed;
     const remaining = this.stats.totalToMint - this.stats.minted - this.stats.failed;
     const eta = remaining / rate;
-    
+
     console.log(`\n${colors.cyan}Progress Update:${colors.reset}`);
     console.log(`Total: ${this.stats.totalToMint} | Minted: ${this.stats.minted} | Failed: ${this.stats.failed}`);
     console.log(`Rate: ${rate.toFixed(2)} COAs/second`);
     console.log(`ETA: ${(eta / 60).toFixed(1)} minutes`);
     console.log(`IPFS Uploaded: ${this.stats.ipfsUploaded}`);
+
+    if (this.onesource && this.stats.onesourceVerified > 0) {
+      console.log(`OneSource Verified: ${this.stats.onesourceVerified}`);
+    }
   }
 
   async run(csvPath) {
@@ -272,6 +323,14 @@ class BatchMinter {
       console.log(`Failed: ${this.stats.failed}`);
       console.log(`Success Rate: ${((this.stats.minted / this.stats.totalToMint) * 100).toFixed(2)}%`);
       console.log(`Total Time: ${((Date.now() - this.stats.startTime) / 1000 / 60).toFixed(2)} minutes`);
+
+      if (this.onesource) {
+        console.log(`\n${colors.cyan}OneSource Indexing:${colors.reset}`);
+        console.log(`Verified: ${this.stats.onesourceVerified} / ${this.stats.minted}`);
+        if (this.stats.onesourceVerified < this.stats.minted) {
+          console.log(`${colors.yellow}Note: Some tokens may still be indexing. Check OneSource API later for full verification.${colors.reset}`);
+        }
+      }
       
     } catch (error) {
       console.error(`\n${colors.red}Fatal error:${colors.reset}`, error);
